@@ -1,0 +1,8 @@
+- corpus of documents
+- set of terms (of all documents)
+- weight of term in context of document (tfidf)
+  - h, n, N > 0: h * (log2 N/n)
+  - otherwise:   0
+  - h: frequency of term in document
+  - N: number of all documents
+  - n: number of documents that have term
