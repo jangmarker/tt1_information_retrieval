@@ -2,6 +2,7 @@
 #define TT1_INFORMATION_RETRIEVAL_DATABASE_H
 
 #include <map>
+#include <vector>
 
 using DocumentId = std::wstring;
 using TermId = std::wstring;
@@ -13,9 +14,18 @@ struct Document
     DocumentId id;
     TermFrequencies termFrequencies;
     TermWeights termWeights;
+    double euclideanNorm;
 };
 
 using DocumentList = std::map<DocumentId, Document>;
+
+struct SearchResult {
+    SearchResult(const DocumentId& documentId, double similarity);
+
+    DocumentId documentId;
+    double similarity;
+};
+using SearchResults = std::vector<SearchResult>;
 
 class Database
 {
@@ -24,6 +34,8 @@ public:
     void addDocument(Document&& document);
     void addDocument(const Document& document);
     void recalculateWeights();
+
+    SearchResults search(const Document& query);
 
     const DocumentList& documents() const;
     const TermFrequencies& termFrequencies() const;
