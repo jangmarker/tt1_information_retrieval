@@ -3,8 +3,8 @@
 
 #include <map>
 
-using DocumentId = std::string;
-using TermId = std::string;
+using DocumentId = std::wstring;
+using TermId = std::wstring;
 using TermFrequencies = std::map<TermId, std::size_t>;
 using TermWeights = std::map<TermId, double>;
 

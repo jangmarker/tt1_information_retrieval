@@ -3,14 +3,14 @@
 #include "3rdparty/catch.h"
 
 TEST_CASE("simple calculation of weight", "[database]") {
-    Document doc1{"doc1", {
-            {"abc", 2},
-            {"def", 1},
-            {"ghi", 1}
+    Document doc1{L"doc1", {
+            {L"abc", 2},
+            {L"def", 1},
+            {L"ghi", 1}
     }, {}};
-    Document doc2{"doc2", {
-            {"abc", 2},
-            {"def", 1}
+    Document doc2{L"doc2", {
+            {L"abc", 2},
+            {L"def", 1}
     }, {}};
 
     Database db;
@@ -22,8 +22,8 @@ TEST_CASE("simple calculation of weight", "[database]") {
     auto documents = db.documents();
     auto frequencies = db.termFrequencies();
 
-    REQUIRE(frequencies["abc"] == 2);
-    REQUIRE(frequencies["ghi"] == 1);
-    REQUIRE(documents["doc1"].termWeights["def"] == 0);
-    REQUIRE(documents["doc1"].termWeights["ghi"] == 1);
+    REQUIRE(frequencies[L"abc"] == 2);
+    REQUIRE(frequencies[L"ghi"] == 1);
+    REQUIRE(documents[L"doc1"].termWeights[L"def"] == 0);
+    REQUIRE(documents[L"doc1"].termWeights[L"ghi"] == 1);
 };
