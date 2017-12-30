@@ -5,11 +5,14 @@ build_script:
   - cd build
   - cmake ..
   - cmake --build .
+
+test_script:
   - ctest -C Debug
 
-after_build:
-  - $wc = New-Object 'System.Net.WebClient'
-  - $wc.UploadFile("https://ci.appveyor.com/api/testresults/xunit/$($env:APPVEYOR_JOB_ID)", (Resolve-Path .\xunit-results.xml))
+after_test:
+  - ps: |
+        $wc = New-Object 'System.Net.WebClient'
+        $wc.UploadFile("https://ci.appveyor.com/api/testresults/xunit/$($env:APPVEYOR_JOB_ID)", (Resolve-Path .\xunit-results.xml))
 
 artifacts:
   - path: 'build\Debug\*tt1*.exe'
