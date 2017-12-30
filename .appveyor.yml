@@ -12,3 +12,5 @@ test_script:
 artifacts:
   - path: 'build\Debug\*tt1*.exe'
     name: executables
+  - path: 'build\*-junit.xml'
+    name: test results
