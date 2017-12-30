@@ -11,6 +11,8 @@ if (MSVC_VERSION GREATER_EQUAL "1900")
     if (_cpp_latest_flag_supported)
         add_compile_options("/std:c++latest")
     endif()
+
+    add_compile_options("/utf-8")
 endif()
 
 if (DEFINED ENV{TRAVIS})
