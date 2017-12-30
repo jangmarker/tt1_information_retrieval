@@ -20,13 +20,14 @@ if (DEFINED ENV{TRAVIS})
     set(CMAKE_BUILD_TYPE "DEBUG")
 endif()
 
-set(SOURCE_FILES database.h database.cpp tokenizer.h tokenizer.cpp fileaccess.h fileaccess.cpp)
+set(SOURCE_FILES database.h database.cpp tokenizer.h tokenizer.cpp fileaccess.h fileaccess.cpp locale_names.h)
 add_executable(tt1_information_retrieval main.cpp 3rdparty/CLI11.hpp ${SOURCE_FILES})
 
 if(CMAKE_COMPILER_IS_GNUCXX)
     target_link_libraries(tt1_information_retrieval -lstdc++fs)
 endif()
 
+set(TEST_FILES 3rdparty/catch.h main_tst.cpp test_helper.cpp test_helper.h ${SOURCE_FILES})
 
 function(create_test NAME)
     add_executable(tst_${NAME} tst_${NAME}.cpp ${TEST_FILES})
@@ -35,7 +36,6 @@ function(create_test NAME)
     endif()
     add_test(${NAME} tst_${NAME} --reporter=junit -o tst_${NAME}-junit.xml)
 endfunction(create_test)
-set(TEST_FILES 3rdparty/catch.h main_tst.cpp test_helper.cpp test_helper.h ${SOURCE_FILES})
 
 enable_testing()
 create_test(database)
