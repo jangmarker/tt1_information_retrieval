@@ -13,9 +13,6 @@ on_finish:
   - appveyor PushArtifact tst_database-junit.xml
   - appveyor PushArtifact tst_integration-junit.xml
   - appveyor PushArtifact tst_tokenizer-junit.xml
-  - appveyor AddTest database -Framework xUnit -FileName tst_database-junit.xml
-  - appveyor AddTest integration -Framework xUnit -FileName tst_integration-junit.xml
-  - appveyor AddTest tokenizer -Framework xUnit -FileName tst_tokenizer-junit.xml
 
 artifacts:
   - path: 'build\Debug\*tt1*.exe'
