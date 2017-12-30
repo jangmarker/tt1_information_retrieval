@@ -33,7 +33,7 @@ function(create_test NAME)
     if(CMAKE_COMPILER_IS_GNUCXX)
         target_link_libraries(tst_${NAME} -lstdc++fs)
     endif()
-    add_test(${NAME} tst_${NAME})
+    add_test(${NAME} tst_${NAME} --reporter=junit -o tst_${NAME}-junit.xml)
 endfunction(create_test)
 set(TEST_FILES 3rdparty/catch.h main_tst.cpp test_helper.cpp test_helper.h ${SOURCE_FILES})
 
