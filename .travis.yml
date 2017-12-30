@@ -1,4 +1,10 @@
 language: cpp
+addons:
+  apt:
+    sources:
+      - ubuntu-toolchain-r-test
+    packages:
+      - g++-7
 
 install:
   # taken from https://github.com/Microsoft/GSL/blob/9d65e74400976b3509833f49b16d401600c7317d/.travis.yml#L189
@@ -14,6 +20,12 @@ install:
     mkdir cmake && travis_retry wget --no-check-certificate -O - ${CMAKE_URL} | tar --strip-components=1 -xz -C cmake
     export PATH=${DEPS_DIR}/cmake/bin:${PATH}
   - cmake --version
+
+  ############################################################################
+  # GCC version
+  ############################################################################
+  - export CXX=g++-7
+  - $CXX --version
 
 before_script:
   - cd "${TRAVIS_BUILD_DIR}"
