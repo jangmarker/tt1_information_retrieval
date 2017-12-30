@@ -10,9 +10,9 @@ test_script:
   - ctest -C Debug
 
 on_finish:
-  - appveyor AddTest database -Framework xUnit -FileName build\Debug\tst_database-junit.xml
-  - appveyor AddTest integration -Framework xUnit -FileName build\Debug\tst_integration-junit.xml
-  - appveyor AddTest tokenizer -Framework xUnit -FileName build\Debug\tst_tokenizer-junit.xml
+  - appveyor PushArtifact build\Debug\tst_database-junit.xml
+  - appveyor PushArtifact build\Debug\tst_integration-junit.xml
+  - appveyor PushArtifact build\Debug\tst_tokenizer-junit.xml
 
 artifacts:
   - path: 'build\Debug\*tt1*.exe'
