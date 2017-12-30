@@ -1,15 +1,23 @@
 cmake_minimum_required(VERSION 3.9)
 project(tt1_information_retrieval)
 
+set(CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR}/CMakeModules)
+
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
-
 if (MSVC_VERSION GREATER_EQUAL "1900")
     include(CheckCXXCompilerFlag)
     CHECK_CXX_COMPILER_FLAG("/std:c++latest" _cpp_latest_flag_supported)
     if (_cpp_latest_flag_supported)
         add_compile_options("/std:c++latest")
     endif()
+endif()
+
+if (DEFINED ENV{CI})
+    include(CodeCoverage)
+    setup_target_for_coverage(${PROJECT_NAME}_coverage tests coverage)
+    set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -Wall -pedantic -pthread -g -O0 -fprofile-arcs -ftest-coverage")
+    set(CMAKE_BUILD_TYPE "DEBUG")
 endif()
 
 set(SOURCE_FILES database.h database.cpp tokenizer.h tokenizer.cpp fileaccess.h fileaccess.cpp)
@@ -22,3 +30,6 @@ if(CMAKE_COMPILER_IS_GNUCXX)
     target_link_libraries(tt1_information_retrieval -lstdc++fs)
     target_link_libraries(tst_tt1_information_retrieval -lstdc++fs)
 endif()
+
+enable_testing()
+add_test(NAME tst_tt1_information_retrieval COMMAND tst_tt1_information_retrieval)

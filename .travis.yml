@@ -5,6 +5,7 @@ addons:
       - ubuntu-toolchain-r-test
     packages:
       - g++-7
+      - lcov
 
 install:
   # taken from https://github.com/Microsoft/GSL/blob/9d65e74400976b3509833f49b16d401600c7317d/.travis.yml#L189
@@ -20,6 +21,7 @@ install:
     mkdir cmake && travis_retry wget --no-check-certificate -O - ${CMAKE_URL} | tar --strip-components=1 -xz -C cmake
     export PATH=${DEPS_DIR}/cmake/bin:${PATH}
   - cmake --version
+  - ctest --version
 
   ############################################################################
   # GCC version
@@ -36,3 +38,11 @@ script:
   - cmake ..
   - cmake --build .
   - ctest
+
+after_success:
+  - lcov --directory . --capture --output-file coverage.info # capture coverage info
+  - lcov --remove coverage.info '/usr/*' --output-file coverage.info # filter out system
+  - lcov --remove coverage.info '3rdparty/*' --output-file coverage.info # filter out 3rd party
+  - lcov --list coverage.info # debug info
+  # Uploading report to CodeCov
+  - bash <(curl -s https://codecov.io/bash) || echo "Codecov did not collect coverage reports"
