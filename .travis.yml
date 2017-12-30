@@ -15,6 +15,9 @@ install:
     export PATH=${DEPS_DIR}/cmake/bin:${PATH}
   - cmake --version
 
+before_script:
+  - cd "${TRAVIS_BUILD_DIR}"
+
 script:
   - mkdir build
   - cd build
