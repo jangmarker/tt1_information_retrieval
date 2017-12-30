@@ -31,5 +31,9 @@ if(CMAKE_COMPILER_IS_GNUCXX)
     target_link_libraries(tst_tt1_information_retrieval -lstdc++fs)
 endif()
 
+if(DEFINED ENV{CI})
+    set(TEST_OPTIONS -r junit -o xunit-results.xml)
+endif()
+
 enable_testing()
-add_test(NAME tst_tt1_information_retrieval COMMAND tst_tt1_information_retrieval)
+add_test(NAME tst_tt1_information_retrieval COMMAND tst_tt1_information_retrieval ${TEST_OPTIONS})
