@@ -34,6 +34,13 @@ namespace
     }
 }
 
+Query::Query(std::initializer_list<std::wstring> terms)
+{
+    for (auto& term : terms) {
+        termFrequencies[term]++;
+    }
+}
+
 SearchResult::SearchResult(const DocumentId& documentId, double similarity)
     : documentId(documentId)
     , similarity(similarity)

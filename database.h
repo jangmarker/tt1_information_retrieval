@@ -17,6 +17,11 @@ struct Document
     double euclideanNorm;
 };
 
+struct Query : public Document
+{
+    Query(std::initializer_list<std::wstring> terms);
+};
+
 using DocumentList = std::map<DocumentId, Document>;
 
 struct SearchResult {
