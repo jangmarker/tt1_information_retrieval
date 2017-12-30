@@ -1,0 +1,19 @@
+language: cpp
+
+install:
+  # taken from https://github.com/Microsoft/GSL/blob/9d65e74400976b3509833f49b16d401600c7317d/.travis.yml#L189
+  ############################################################################
+  # Install a recent CMake (unless already installed on OS X)
+  ############################################################################
+  - CMAKE_VERSION=3.9.0
+  - |
+    CMAKE_URL="https://cmake.org/files/v${CMAKE_VERSION%.[0-9]}/cmake-${CMAKE_VERSION}-Linux-x86_64.tar.gz"
+    mkdir cmake && travis_retry wget --no-check-certificate -O - ${CMAKE_URL} | tar --strip-components=1 -xz -C cmake
+    export PATH=${DEPS_DIR}/cmake/bin:${PATH}
+
+script:
+  - mkdir build
+  - cd build
+  - cmake ..
+  - cmake --build .
+  - ctest

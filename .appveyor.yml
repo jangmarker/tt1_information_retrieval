@@ -5,6 +5,7 @@ build_script:
   - cd build
   - cmake ..
   - cmake --build .
+  - ctest
 
 artifacts:
   - path: 'build\Debug\*tt1*.exe'
