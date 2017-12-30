@@ -1,3 +1,4 @@
+#include "test_helper.h"
 #include "3rdparty/catch.h"
 
 #include "database.h"
@@ -8,6 +9,8 @@
 namespace fs = std::experimental::filesystem;
 
 TEST_CASE("read from files", "[database]") {
+    LocaleSetter setLocale;
+
     Database db;
     fs::path self(__FILE__);
     fs::path schlag(self.parent_path() / fs::path("schlag"));

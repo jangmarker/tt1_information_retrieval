@@ -1,5 +1,6 @@
 #include "tokenizer.h"
 
+#include "test_helper.h"
 #include "3rdparty/catch.h"
 
 #include <locale>
@@ -16,9 +17,7 @@ static const Token sentenceTokens[] = {
 };
 
 TEST_CASE("normalizer", "[tokenizer]") {
-    // TODO use RIIA to reset locale after the test
-    std::setlocale(LC_ALL, "de_DE.UTF-8");
-    std::locale::global(std::locale("de_DE.UTF-8"));
+    LocaleSetter setLocale;
 
     REQUIRE(normalize(L"Österreich") == L"österreich");
 //    REQUIRE(normalize(L"Deutsch-land") == L"deutsch-land");
@@ -29,6 +28,8 @@ TEST_CASE("normalizer", "[tokenizer]") {
 }
 
 TEST_CASE("tokenizer", "[tokenizer]") {
+    LocaleSetter setLocale;
+
     std::wistringstream stream(sentence);
 
     for (const auto& sentenceToken : sentenceTokens) {
@@ -39,6 +40,8 @@ TEST_CASE("tokenizer", "[tokenizer]") {
 }
 
 TEST_CASE("document reader", "[tokenizer]") {
+    LocaleSetter setLocale;
+
     std::wistringstream stream(sentence);
 
     Document doc;
