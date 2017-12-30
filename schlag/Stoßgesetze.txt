@@ -1,0 +1,203 @@
+﻿Ein Stoß ist in der Physik eine sehr kurze Wechselwirkung zwischen zwei Körpern, in dessen Folge sich die Geschwindigkeiten, die Impulse und die Energien der Stoßpartner ändern. Grundsätzlich gilt bei allen Stoßvorgängen der Impulserhaltungssatz. Der Energieerhaltungssatz der Mechanik gilt jedoch nicht immer, da durch plastische Verformung Energie „verloren“ gehen, d. h. in nichtmechanische Energieformen umgewandelt werden kann.
+
+Die grundlegenden Stoßgesetze und ihre mathematische Beschreibung wurden in der Zeit zwischen 1651 und 1655 von Christiaan Huygens aufgestellt.
+Das Kugelstoßpendel veranschaulicht den elastischen Stoß
+Inhaltsverzeichnis
+
+    1 Einteilung mechanischer Stoßprozesse
+    2 Elastischer Stoß
+        2.1 Zweidimensionaler elastischer Stoß
+    3 Unelastischer Stoß
+    4 Realer Stoß
+    5 Impulsübertragung bei realen Körpern
+    6 Superelastischer Stoß
+    7 Reaktiver Stoß
+    8 Streuung
+    9 Siehe auch
+    10 Literatur
+    11 Weblinks
+
+Einteilung mechanischer Stoßprozesse
+
+Am Berührpunkt der zwei Körper lässt sich eine Tangentialebene anlegen, die als Berührebene bezeichnet wird. Die zugehörige Normalgerade bildet die Stoßlinie. Die Massen der beiden Körper seien m_1 und m_2, ihre Anfangsgeschwindigkeiten \vec{v}_1 und \vec{v}_2, die Ausgangsgeschwindigkeiten \vec{v}_{1}' und \vec{v}_{2}'. Die gemeinsame Geschwindigkeit zum Zeitpunkt der Berührung sei \vec u.
+
+Man unterscheidet zwei ideale Grenzfälle, den elastischen Stoß und den plastischen Stoß (auch inelastisch oder unelastisch). Beim elastischen Stoß wird kinetische Energie von Körper zu Körper weitergegeben, bleibt aber insgesamt als kinetische Energie erhalten, denn sie stoßen sich voneinander weg. Beim plastischen Stoß geht dagegen ein Teil der kinetischen Energie in innere Energie über und die Körper stoßen sich nicht voneinander ab. Darum besitzen am Ende beide dieselbe Geschwindigkeit. Alle Zwischenstufen nennt man realer Stoß.
+
+Bei einem geraden Stoß verlaufen die beiden Impulsvektoren parallel zur Stoßlinie, ansonsten handelt es sich um einen schiefen Stoß. Liegt der gemeinsame Schwerpunkt der beiden Körper auf der Stoßlinie, so spricht man von einem zentralen Stoß, andernfalls von einem exzentrischen Stoß.
+
+Darüber hinaus grenzt sich der glatte Stoß vom unglatten Stoß (auch rauer Stoß) ab. Beim rauen Stoß treten Reibungskräfte an der Berührungsfläche auf und die Impulsübertragung erfolgt nicht mehr senkrecht zur Berührebene. Zur weiteren Analyse eignet sich eine Vektorzerlegung in die Tangential- und Normalkomponente.
+
+    Einteilung
+
+    Gerader, zentraler, elastischer Stoß
+
+    Schiefer, zentraler, elastischer Stoß
+
+    exzentrischer Stoß
+
+    Rauer Stoß
+
+Vereinfachend wird für die folgenden Berechnungen angenommen, dass der Stoß in unendlich kurzer Zeit abläuft und sich währenddessen die Positionen der Stoßpartner nicht verändern. Die Geschwindigkeiten der Stoßpartner ändern sich sprunghaft. Des Weiteren wird die freie Beweglichkeit der Stoßpartner vorausgesetzt, so dass nur geradlinige Bewegungen stattfinden.
+Elastischer Stoß
+Elastischer Stoß zweier Körper gleicher Masse
+
+(Idealelastischer Stoß / vollelastischer Stoß)
+
+Zwei Körper stoßen aufeinander, ohne dass dabei Energie in innere Energie, beispielsweise Wärme oder Deformation, umgewandelt wird. Nach dem Energieerhaltungssatz ist also die Summe der Bewegungsenergien (kinetische Energien) vor dem Stoß gleich der Summe der kinetischen Energien (Bewegungsenergien) nach dem Stoß. Dasselbe gilt nach dem Impulserhaltungssatz auch für die vektorielle Summe der Impulse.
+
+Der ideale elastische Stoß bei makroskopischen Objekten ist eine ideale Modellvorstellung. Aufgrund von Reibung und weiteren Einflüssen geht dem System in Wirklichkeit kinetische Energie verloren. Sehr nahe am Modell sind jedoch beispielsweise Billardkugeln oder ein Gummiball.
+
+Bei Stößen von Atomen und/oder Elementarteilchen (siehe auch Kinematik (Teilchenstoß)) gibt es jeweils eine Mindestenergie, die für eine Anregung eines Atoms oder Teilchens oder die Erzeugung und Umwandlung von Teilchen in der Elementarteilchenphysik benötigt wird. Wird diese Energie nicht erreicht, kommt es zum ideal elastischen Stoß.
+Elastische Stöße (verschiedene Anfangsgeschwindigkeiten)
+Elastischer Stoß (verschiedene Massen)
+
+Nach der Definition von "elastisch" muss die Summe der kinetischen Energie vor und nach dem Stoß gleich hoch sein. Das Vorzeichen der Geschwindigkeit spiegelt die Bewegungsrichtung wider.
+
+    \begin{align} \sum E_\mathrm{kin} & = \sum E'_\mathrm{kin} \\ \frac{m_1 \cdot |v_1|^2}{2} + \frac{m_2 \cdot |v_2|^2}{2} & = \frac{m_1 \cdot |v_1'|^2}{2} + \frac{m_2 \cdot |v_2'|^2}{2} \\ \frac{m_1 \cdot v_1^2}{2} - \frac{m_1 \cdot v_1'^2}{2} & = \frac{m_2 \cdot v_2'^2}{2} - \frac{m_2 \cdot v_2^2}{2} \\ \frac{m_1}{2}\cdot (v_1-v_1')(v_1+v_1') & = \frac{m_2}{2}\cdot (v_2'-v_2)(v_2'+v_2) \\ \end{align}
+
+Zugleich gilt der Impulserhaltungssatz:
+
+    \begin{align} \sum \vec p & = \sum \vec {p'} \\ (m_1 \cdot \vec{v_1}) + (m_2 \cdot \vec{v_2}) & = (m_1 \cdot \vec{v_1'}) + (m_2 \cdot \vec{v_2'}) \\ (m_1 \cdot \vec{v_1}) - (m_1 \cdot \vec{v_1'}) & = (m_2 \cdot \vec{v_2'}) - (m_2 \cdot \vec{v_2}) \\ m_1 \cdot (\vec{v_1} - \vec{v_1'}) & = m_2 \cdot (\vec{v_2'} - \vec{v_2}) \\ \end{align}
+
+Beim Impuls ist darauf zu achten, die Richtung nicht zu vernachlässigen, da die Betragsaddition in n-dimensionalen Räumen für n > 1 zu große Werte liefert. Beim Quadrat der Vektoren im Energieerhaltungssatz handelt es sich um Skalare. Es ist darauf zu achten, dass die folgende Berechnung nur für die Geschwindigkeiten in Stoßrichtung gelten (tangential), nicht aber für die, die orthogonal dazu liegen.
+
+Im Eindimensionalen reichen die beiden Gleichungen aus, um die zwei Unbekannten v_1' und v_2' zu berechnen:
+
+    v_1' = 2 \cdot \frac{m_1 \cdot v_1 + m_2 \cdot v_2}{m_2 + m_1} - v_1 
+
+    v_2' = 2 \cdot \frac{m_1 \cdot v_1 + m_2 \cdot v_2}{m_2 + m_1} - v_2 
+
+        Dabei ist   \frac{m_1 \cdot v_1 + m_2 \cdot v_2}{m_2 + m_1}   die Geschwindigkeit u des gemeinsamen Schwerpunkts.
+
+Für den Sonderfall m_1=m_2 ergibt sich:
+
+    v_1' = v_2 
+    v_2' = v_1 
+
+Im Zwei- und Mehrdimensionalen müssen die Bewegungen anhand des Aufprallwinkels zerlegt werden.
+Zweidimensionaler elastischer Stoß
+2-dimensionaler elastischer Stoß von zwei Münzen
+
+(Schiefer, zentraler, elastischer Stoß)
+
+Der zweidimensionale elastische Stoß beruht prinzipiell auf dem oben geschilderten eindimensionalen elastischen Stoß. Zunächst muss die sogenannte Zentralsteigung s_z\!\ berechnet werden. Diese beschreibt die Steigung der Gerade durch die Mittelpunkte der Kugeln. Die Steigung s_t\!\ der Tangente t\!\ durch den Berührpunkt der Kugeln errechnet sich dann durch
+
+    s_t = - \frac 1 s_z
+
+Zerlegt man die Bewegungsvektoren \vec{v}_{1} und \vec{v}_{2} nun in zwei Komponenten \vec{v}_{t} parallel zur Tangente und \vec{v}_{z} orthogonal dazu, so kann man den zweidimensionalen Stoß zu einem eindimensionalen vereinfachen. Es gilt dann die obige Formel, jedoch nur für die Komponenten in Zentralrichtung.
+
+Daher müssen zunächst die Vektoren \vec{v}_{t} und \vec{v}_{z} errechnet werden. Dies geschieht anhand der Steigungen s_{v1}\!\ , s_{v2}\!\ , s_t\!\ und s_z\!\ .
+
+(Ab hier soll zugunsten einer einfacheren Darstellung auf die Indizes '1' und '2' verzichtet werden.)
+
+Aus \vec{v} = \vec{t} + \vec{z} folgt:
+
+    x_v =\!\ x_t + x_z
+    y_v =\!\ y_t + y_z
+
+Für y_v = s_v \cdot x_v (entsprechendes gilt für y_t und y_z) kann die zweite Gleichung vereinfacht werden:
+
+    s_v \cdot x_v = s_t \cdot x_t + s_z \cdot x_z 
+
+Man erhält also das Gleichungssystem
+
+    s_v \cdot x_v = s_t \cdot x_t + s_z \cdot x_z 
+    x_v =\!\ x_t + x_z
+
+Durch Umformen erhält man:
+
+    x_t = x_v \cdot \frac {s_z - s_v} {s_z - s_t}
+
+    x_z = x_v \cdot \frac {s_t - s_v} {s_t - s_z}
+
+Für y_t = x_t \cdot s_t und y_z = x_z \cdot s_z setzt man entsprechend ein.
+
+Zuletzt müssen nun noch die neuen Vektoren \vec {z}_{1}' und \vec {z}_{2}' wie oben angegeben berechnet werden. Im einfachsten Falle, nämlich bei m_1 =\!\ m_2 gilt:
+
+    \vec {z'}_{1} = \vec {z}_{2}
+    \vec {z'}_{2} = \vec {z}_{1}
+
+Ansonsten muss die obige Formel angewendet werden.
+
+Die neuen Geschwindigkeitsvektoren \vec {v'}_{1} und \vec {v'}_{2} werden dann durch Vektoraddition der Vektoren \vec {t}_{1} bzw. \vec {t}_{2} und \vec {z}_{1} bzw. \vec {z}_{2} berechnet:
+
+    \vec{v'}_{1} = \vec{t}_{1} + \vec{z'}_{1}
+    \vec{v'}_{2} = \vec{t}_{2} + \vec{z'}_{2}
+
+Unelastischer Stoß
+
+(Vollkommen unelastischer Stoß / plastischer Stoß / vollplastischer Stoß / inelastischer Stoß)
+
+Beim unelastischen Stoß wird ein Teil der kinetischen Energie in innere Energie (U) umgewandelt. Im einfachsten Fall geschieht das durch plastische Deformation der beteiligten Körper, aber auch ein Stoßdämpfer erzeugt mechanische Verluste. Beim ideal unelastischen Stoß wird der maximal mögliche Anteil der kinetischen Energie in innere Energie umgewandelt, dabei „kleben“ die beiden Massen nach dem Stoß aneinander und bewegen sich mit derselben Geschwindigkeit, im Folgenden v_2' genannt, weiter. Ein Beispiel sind zwei Plastilinkugeln, die nach dem Stoß aneinander haften.
+Unelastischer Stoß
+
+Wiederum gelten die beiden Erhaltungssätze:
+
+    \sum E_\mathrm{kin} = \sum E'_\mathrm{kin} + U \quad \text{und} \quad \sum p = \sum p'
+
+    vor dem Stoß:
+
+    \sum E_\mathrm{kin} = \frac{m_1 \cdot v_1^2}{2} + \frac{m_2 \cdot v_2^2}{2} 
+    \sum p = m_1 \cdot v_1 + m_2 \cdot v_2
+
+    nach dem Stoß:
+
+    \sum E'_\mathrm{kin} = \frac{(m_1 + m_2) \cdot v_2'^2}{2} 
+    \sum p' = (m_1 + m_2) \cdot v_2'
+
+Aus dem Impulserhaltungssatz kann man Folgendes ableiten:
+
+    m_1 \cdot v_1 = (m_1 + m_2) \cdot v_2' - m_2 \cdot v_2 
+    v_2' = \frac{m_1 \cdot v_1 + m_2 \cdot v_2}{m_1 + m_2}
+
+Aus dem Energieerhaltungssatz lässt sich die innere Energie U berechnen:
+
+    U = \sum E_\mathrm{kin} - \sum E'_\mathrm{kin}= \frac{1}{2} \cdot \frac{m_1 \cdot m_2}{m_1 + m_2} \cdot (v_1 - v_2)^2
+
+Realer Stoß
+Ein hüpfender Ball. Jeder Aufschlag des Balls ist ein teilplastischer Stoß, deshalb wird die mechanische Energie des Balls mit jedem Aufschlag geringer.
+
+(Teilelastischer Stoß / teilplastischer Stoß)
+
+Ein realer Stoß zwischen 2 Massen stellt immer eine Mischform aus ideal elastischem und ideal plastischem Stoß dar. Diese Mischform wird dargestellt durch die Stoßzahl k. Die Stoßzahl wird auch Restitutionskoeffizient genannt.
+
+    k = \frac{v_1' - v_2'}{v_2 - v_1}
+
+Die Stoßzahl lässt sich auch über einen Fallversuch bestimmen:
+
+    k = \sqrt{\frac{h_1'}{h_1}}
+
+Für einen teilelastischen Stoß mit der Stoßzahl k ergeben sich folgende Geschwindigkeiten:
+
+    v_1' = \frac{m_1 v_1 + m_2 v_2 - m_2(v_1 - v_2)k}{m_1 + m_2} 
+
+    v_2' = \frac{m_1 v_1 + m_2 v_2 - m_1(v_2 - v_1)k}{m_1 + m_2} 
+
+Die Formänderungsarbeit = Umwandlung der kinetischen Energie lässt sich bestimmen aus:
+
+    \Delta E = U = \frac{m_1 m_2 }{2(m_1 + m_2) } (v_1 - v_2)^2 (1- k^2) 
+
+Mit
+
+    k = 0: vollkommen plastischer Stoß
+    k = 1: vollkommen elastischer Stoß
+
+lassen sich die Gleichungen zur Formänderungsarbeit sowie die Gleichungen der Geschwindigkeiten nach dem Stoß zu den obigen Gleichungen im Abschnitt elastischer und plastischer Stoß vereinfachen.
+Impulsübertragung bei realen Körpern
+
+Bei einem realen Körper verläuft die Impulsübertragung nicht mehr sprunghaft. Trifft ein Gummiball auf den Boden, verformt er sich zunächst und stößt sich anschließend wieder ab, da er sich wegen seiner Elastizität wieder zurück formt. Der gesamte Ablauf entspricht einem Kraftstoß, bei dem nur ein Stoßpartner betrachtet wird. Weiterhin gilt das dritte Newtonsche Gesetz „actio gleich reactio“:
+
+    \int \vec F_{21}(t) \cdot \mathrm{d}t = - \int \vec F_{12}(t) \cdot \mathrm{d}t.
+
+Bei einem Stoß erfahren also beide Stoßpartner einen Kraftstoß in entgegengesetzten Richtungen.
+Superelastischer Stoß
+
+Beim superelastischen Stoß geht innere Energie von mindestens einem der Stoßpartner in kinetische Energie über. Die kinetische Energie ist nach diesem Stoß größer als vor dem Stoß. Die mathematische Behandlung erfolgt wie beim allgemeinen inelastischen Stoß, nur ist U < 0.
+Reaktiver Stoß
+
+Beim reaktiven Stoß kommt es zu Reaktionen, wie z. B. chemischen Reaktionen, oder zur Erzeugung neuer Teilchen durch Stöße hochenergetischer Teilchen in der Elementarteilchenphysik. Dabei muss berücksichtigt werden, dass vor und nach dem Stoß unterschiedliche Teilchen zu Energie und Impuls beitragen. Es ändern sich also neben der Geschwindigkeit auch die Massen und unter Umständen die Anzahl der Teilchen.
+
+Eine Art des reaktiven Stoßes ist z. B. der Ladungsaustausch, ein atomphysikalischer Prozess, bei dem während eines Stoßes zwischen Atomen, Molekülen oder Ionen ein oder mehrere Elektronen ausgetauscht werden. Mit großer Wahrscheinlichkeit werden dabei die Elektronen auf den Stoßpartner mit der positiveren Ladung übergehen. So können z. B. im Sonnenwind enthaltene positive Ionen (siehe auch hochgeladenes Ion) beim Durchgang durch die einen Kometen umgebende dünne Gasatmosphäre Elektronen einfangen und dabei Strahlung, u. a. im Röntgenbereich, emittieren.
+Streuung
+
+In der Teilchenphysik, Atomphysik, Kernphysik oder wenn Photonen beteiligt sind, spricht man auch von Streuung. Auch hier bedeutet inelastische Streuung (inelastischer Stoß), dass die kinetische Energie nicht als solche erhalten bleibt, sondern teilweise z. B. in Anregungsenergie verwandelt oder zum Aufbrechen von Bindungen verwendet wird. Wenn ein Photon an einer inelastischen Streuung beteiligt ist, ändert sich im Allgemeinen seine Wellenlänge. Näheres siehe Streuung und Streutheorie.
