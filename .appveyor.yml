@@ -1,5 +1,8 @@
 image: Visual Studio 2017
 
+install:
+  - ps: Set-Culture de-DE
+
 build_script:
   - mkdir build
   - cd build
