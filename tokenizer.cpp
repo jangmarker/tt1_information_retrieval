@@ -21,3 +21,14 @@ std::wistream& operator>>(std::wistream& stream, Token& token)
     token.value = normalize(token.value);
     return stream;
 }
+
+std::wistream& operator>>(std::wistream& stream, TermFrequencies& termFrequencies)
+{
+    while (stream.peek() != WEOF) {
+        Token token;
+        stream >> token;
+        termFrequencies[token.value]++;
+    }
+
+    return stream;
+}

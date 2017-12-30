@@ -16,6 +16,7 @@ static const Token sentenceTokens[] = {
 };
 
 TEST_CASE("normalizer", "[tokenizer]") {
+    // TODO use RIIA to reset locale after the test
     std::setlocale(LC_ALL, "de_DE.UTF-8");
     std::locale::global(std::locale("de_DE.UTF-8"));
 
@@ -35,4 +36,15 @@ TEST_CASE("tokenizer", "[tokenizer]") {
         stream >> token;
         REQUIRE(token.value == sentenceToken.value);
     }
+}
+
+TEST_CASE("document reader", "[tokenizer]") {
+    std::wistringstream stream(sentence);
+
+    Document doc;
+    stream >> doc.termFrequencies;
+
+    REQUIRE(doc.termFrequencies.size() == 23);
+    REQUIRE(doc.termFrequencies[L"ist"] == 2);
+    REQUIRE(doc.termFrequencies[L"umgeben"] == 1);
 }
