@@ -1,0 +1,5 @@
+﻿Ein Feldblock ist eine zusammenhängende landwirtschaftlich nutzbare Fläche, die von in der Natur erkennbaren Außengrenzen (beispielsweise Wald, Straßen, bebautes Gelände, Gewässer, Gräben) umgeben ist. Ein Feldblock kann von einem oder mehreren Landwirten bewirtschaftet werden. Jeder Feldblock besitzt einen bundeseinheitlichen 16-stelligen Flächenidentifikator (FLIK).
+
+Der Feldblock wurde als Teil des Landwirtschaftlichen Flächenkatasters (LFK) als neues System zur Flächenidentifizierung in mehreren Bundesländern Deutschlands im Zuge der EU-Agrarreform (GAP) in den Jahren 2005 bis 2006 eingeführt. Er umfasst einen oder mehrere landwirtschaftlich genutzte Parzellen bzw. Schläge. Die Identifizierung dieser Parzellen erfolgt in einigen Bundesländern Deutschlands über den Feldblock, in anderen Bundesländern dagegen über das Flurstück.
+
+Für 2007 wurden auch die Landschaftselemente (LE) als Fläche digitalisiert und erhielten die Bezeichnung FLEK. In den Erläuterungen hierzu heißt es u. a.: „(Somit hat ein LE einen FLEK und ein Feldblock einen FLIK).“

@@ -1,0 +1,137 @@
+﻿Als Schlaganfall (auch Gehirnschlag, zerebraler Insult, apoplektischer Insult, Apoplexia cerebri, Ictus apoplecticus, in der medizinischen Umgangssprache häufig verkürzend auch Apoplex oder Insult) wird eine plötzlich auftretende Erkrankung des Gehirns bezeichnet, die oft zu einem anhaltenden Ausfall von Funktionen des Zentralnervensystems führt und durch kritische Störungen der Blutversorgung des Gehirns verursacht wird.
+Inhaltsverzeichnis
+
+    1 Begriffe
+    2 Epidemiologie
+    3 Schlaganfallformen – Minderdurchblutung oder Blutung
+    4 Symptome
+    5 Diagnostik
+        5.1 Merkwort “FAST” (englisch)
+    6 Therapie
+    7 Rehabilitation
+    8 Siehe auch
+    9 Literatur
+        9.1 Lehrbücher
+        9.2 Einzelnachweise
+    10 Weblinks
+
+Begriffe
+
+Die Terminologie des Schlaganfalls wird nicht einheitlich benutzt. Gleichbedeutend zum Begriff Schlaganfall sind auch die englischen Termini Stroke und Cerebrovascular accident (CVA).[1] Diese Bezeichnungen werden häufig als Oberbegriff für unterschiedliche neurologische Krankheitsbilder benutzt, deren wichtigste Gemeinsamkeit plötzliche Symptome nach einer auf das Gehirn begrenzten Durchblutungsstörung sind, wobei der Funktionsverlust definitionsgemäß[2] nicht auf primäre Störungen der Erregbarkeit von Nervenzellen zurückzuführen sein darf (konvulsive Störung, siehe Epilepsie).
+Epidemiologie
+Deutschlandlastige Artikel 	Dieser Artikel oder Absatz stellt die Situation in Deutschland dar. Hilf mit, die Situation in anderen Staaten zu schildern.
+
+Jährliche Häufigkeiten in Deutschland:[3]
+
+    durch Minderdurchblutung primär ischämischer Hirninfarkte (Inzidenz 160–240 Ereignisse/100.000 Einwohner)
+    Hirnblutungen (24/100.000)
+    Einblutungen in den das Gehirn umgebenden Liquorraum, sogenannte Subarachnoidalblutungen (6/100.000)
+    Schlaganfälle ungeklärter Ursache (8/100.000)
+
+Somit gehört der Schlaganfall zu den häufigsten Erkrankungen in Deutschland und ist auch die dritthäufigste Todesursache in Deutschland: 2006 stellte das Statistische Bundesamt 65.133 Todesfälle fest, was einem Anteil von 7,9 % entspricht.
+
+Darüber hinaus ist der Schlaganfall die häufigste Ursache für mittlere und schwere Behinderung.
+Schlaganfallformen – Minderdurchblutung oder Blutung
+
+Dem Schlaganfall liegt ein plötzlicher Mangel der Nervenzellen an Sauerstoff und anderen Substraten zugrunde. Grob unterscheiden lassen sich die plötzlich auftretende Minderdurchblutung (Ischämischer Schlaganfall beziehungsweise Hirninfarkt) und die akute Hirnblutung (hämorrhagischer Infarkt oder Insult), die jedoch sekundär aufgrund ihrer raumfordernden Wirkung bzw. aufgrund des Fehlens des Blutes in nachgeordneten Regionen ebenfalls zu einer Ischämie führt. Bei primär ischämischen Infarkten kann es ebenfalls zu sekundären Blutungen im Infarktgebiet (hämorrhagische Infarzierung) kommen.[4]
+
+Die Unterscheidung zwischen Minderdurchblutung und Blutung ist erst durch bildgebende Verfahren wie die Computertomografie (CT) oder Magnetresonanztomographie (MRT) sicher möglich, wobei in den ersten Stunden beide Bildgebungsmethoden insbesondere beim primär ischämischen Hirninfarkt noch unauffällig sein können. Die Verdachtsdiagnose einer Subarachnoidalblutung, welche in Folge einer geplatzten Arterie (zum Beispiel aufgrund eines Aneurysmas) entsteht, kann insbesondere bei nur milder Symptomatik (zum Beispiel alleinige Kopfschmerzen) durch den Nachweis von Blutbestandteilen im Nervenwasser bei der Lumbalpunktion bestätigt werden.
+
+Kürzer als 24 Stunden andauernde Minderdurchblutungen ohne sichtbare Folgen wurden früher als Transitorische ischämische Attacke (TIA) bezeichnet. Obwohl in den alten Leitlinien und auch in Lehrbüchern noch häufig erwähnt, wird in den Leitlinien der Deutschen Gesellschaft für Neurologie 2005 darauf hingewiesen, dass die klassische Differenzierung von transitorisch ischämischen Attacken (TIA) und vollendeten ischämischen Schlaganfällen als überholt gilt. Grund dafür ist einerseits, dass auch bei vielen Patienten mit einer sogenannten TIA morphologische Hirnschäden nachweisbar sind und andererseits das Risiko für einen Re-Infarkt nach TIA und vollendetem Schlaganfall etwa gleich groß ist. Abgesehen von der Frage der Lyse sollen sowohl „vollendete“ Schlaganfälle als auch früher als TIA bezeichnete Zustände gleich behandelt werden.[5] Der Begriff (prolongiertes) reversibles ischämisches neurologisches Defizit (RIND/PRIND) für länger als 24 Stunden, aber kürzer als drei Wochen anhaltende Befunde soll ebenfalls nicht mehr angewendet werden, da dies bereits einem manifesten Schlaganfall entspricht.[6] Gleiches gilt für die Beschreibung eines partiell reversiblen ischämischen neurologischen Syndroms (PRINS).
+Symptome
+
+Als Zeichen eines Schlaganfalles können plötzlich, je nach Schweregrad, auch gleichzeitig mehrere Symptome auftreten:[7]
+
+    Sehstörung auf einem oder beiden Augen (evtl. einseitige Pupillenerweiterung), Gesichtsfeldausfall, Doppelbilder
+    Fehlende Wahrnehmung eines Teils der Umwelt oder des eigenen Körpers (Neglect)
+    Schwindel, Übelkeit, Erbrechen, Gangstörung, Gleichgewichts- oder Koordinationsstörung (Ataxie)
+    Taubheitsgefühl
+    Lähmung oder Schwäche im Gesicht, in einem Arm, Bein oder einer ganzen Körperhälfte
+    Verwirrung, Sprach-, Schrift- oder Verständnisstörung, Wortfindungsstörungen
+    stärkster Kopfschmerz ohne erkennbare Ursache bei evtl. entgleistem Blutdruck
+    Schluckstörungen (Dysphagie)
+    Orientierungsstörungen
+
+Diagnostik
+	In diesem Artikel oder Abschnitt fehlen wichtige Informationen. Du kannst Wikipedia helfen, indem du sie recherchierst und einfügst, aber bitte kopiere keine fremden Texte in diesen Artikel.
+
+Die Unterscheidung zwischen Minderdurchblutung und Blutung ist erst durch bildgebende Verfahren wie die Computertomografie (CT) oder Magnetresonanztomographie (MRT) sicher möglich, wobei in den ersten Stunden beide Bildgebungsmethoden insbesondere beim primär ischämischen Hirninfarkt noch unauffällig sein können. Die Verdachtsdiagnose einer Subarachnoidalblutung, welche in Folge einer geplatzten Arterie (zum Beispiel aufgrund eines Aneurysmas) entsteht, kann insbesondere bei nur milder Symptomatik (zum Beispiel alleinige Kopfschmerzen) durch den Nachweis von Blutbestandteilen im Nervenwasser bei der Lumbalpunktion bestätigt werden.
+
+Ein einfacher Test zur Erkennung eines Schlaganfalls durch Laien ist die Cincinnati Prehospital Stroke Scale (CPSS).[8][9]
+Merkwort “FAST” (englisch)
+
+Ärzte in den USA haben einen einfachen Test vorgestellt, mit dem auch ungeübte Personen innerhalb einer Minute einen Schlaganfall relativ sicher erkennen können: Sie müssen nur beurteilen, ob ein Patient normal lächeln, beide Arme heben und halten und einen einfachen Satz verständlich formulieren kann. Im US-amerikanischen Raum hat sich zum besseren Einprägen die Eselsbrücke F-A-S-T (englisch: schnell) durchgesetzt. Sie steht für face – arms – speech – time:[10]
+
+    Face: Bitten Sie die Person, zu lächeln. (Das Gesicht wird bei Lähmung einseitig verzogen.)
+    Arms: Bitten Sie die Person, gleichzeitig beide Arme nach vorne zu heben, Handflächen nach oben. (Bei einer Lähmung kann ein Arm nicht gehoben werden bzw. sinkt oder dreht sich, vor allem bei geschlossenen Augen, ab.)
+    Speech: Bitten Sie die Person, einen einfachen Satz nachzusprechen, zum Beispiel: „Ich benötige keine Hilfe.“ (Der Satz muss korrekt wiederholt werden, die Sprache darf nicht verwaschen sein.)
+    Time: Ist mindestens einer der beschriebenen Tests positiv, so schnell wie möglich einen Notruf durchführen.
+
+Mit diesem Test werden Schlüsselsymptome für einen Schlaganfall abgefragt. Ein Test mit einhundert Personen zeigte, dass sie einen Schlaganfall großteils korrekt diagnostizierten. Eine Schwäche der Arme erkannten 97 Prozent, Sprachdefizite 96 Prozent der Testpersonen einwandfrei. Aufgrund des Lächelns der Patienten identifizierten 74 Prozent eine Gesichtsmuskelschwäche. Wegen der damit verbundenen Zeitersparnis steigt die Wahrscheinlichkeit, dass der Patient keine bleibenden Schäden davonträgt.
+Therapie
+
+Schlaganfallpatienten, auch Verdachtsfälle, sollten möglichst schnell ärztlich untersucht werden. In vielen Fällen gelingt es durch intravenöse Verabreichung von Medikamenten (Thrombolyse) ein eventuell vorhandenes Blutgerinnsel aufzulösen und das Gehirn vor einem dauerhaften Schaden zu bewahren.
+
+Nach dem unverzüglichen Absetzen eines Notrufs sollte der Patient beobachtet und mit erhöhtem Oberkörper gelagert werden. Keine körperliche Belastung. Nichts trinken, nichts essen, da eine Aspirationsgefahr besteht. Das bedeutet, dass das Gehirn evtl. den Schluckvorgang nicht mehr richtig steuern kann und so die Gefahr des Verschluckens besteht. Notfalltransport mit Rettungswagen, eventuell mit Notarzt, in eine Stroke Unit (spezialisierte Abteilung für Schlaganfall-Behandlung, nicht unbedingt immer Bestandteil einer neurologischen Klinik) zur genauen Diagnostik und Therapie von möglichen Komplikationen.[11]
+
+Ein recht neues Verfahren, die Neurothrombektomie, entfernt mechanisch mit einem Katheter (Neuro thrombectomy catheter[12]) das Blutgerinnsel im Gehirn.[13] „Mehr als 60 Prozent der Patienten mit großen Schlaganfällen können nach der Katheterbehandlung bereits nach drei Monaten wieder ein eigenständiges Leben führen. Bei der medikamentösen Therapie liegt diese Quote bei nur etwa 15 Prozent“.[14]
+
+Gerade für Patienten, bei denen ein Blutgerinnsel ein großes Gefäß des Gehirns verschließt, ist die Thrombektomie wirkungsvoll. In rund 90 Prozent der Fälle kann das Gefäß wieder eröffnet werden. Die Neurothrombektomie kann bei etwa 10 bis 15 Prozent der Schlaganfälle eingesetzt werden. Bislang wird dieses Verfahren nur in wenigen Kliniken in Deutschland angeboten.[15][16]
+Rehabilitation
+Funktionserholung nach großem kortikalen Schlaganfall [fMRT]
+Aktivitätsmuster bei Gesunden und Schlaganfall-Patienten, gemessen mit fMRT
+
+Die Rehabilitation von Patienten mit zerebrovaskulärer Insuffizienz beginnt idealerweise postakut in oben genannten spezialisierten Behandlungszentren, sogenannten Stroke Units. Rehabilitative Ansätze wie das des Bobath-Konzepts erfordern ein hohes Maß an interdisziplinärer Zusammenarbeit und sind bei konsequenter Ausführung für den Rehabilitationsverlauf maßgeblich mitverantwortlich. Ein neuer und wissenschaftlich mehrfach validierter Ansatz ist die „Constraint-Induced Movement Therapy“ (CIMT),[17] bei der durch Immobilisation des gesunden Arms für den Großteil der Wachperiode der Patient zum Gebrauch der erkrankten Hand „gezwungen“ wird, wodurch krankhafte Anpassungsphänomene wie der „erlernte Nichtgebrauch“ verhindert werden können. Diese Therapiemethode ist auch bei schwer betroffenen Patienten und im chronischen Stadium einsetzbar. Die Methode ist im deutschsprachigen Raum auch als „Taubsche Bewegungsinduktion“ bekannt.[18]
+
+Im Zentrum der neurologischen Rehabilitation stehen vor allem Maßnahmen, welche die Körperwahrnehmung des Betroffenen fördern und im besten Falle zur vollständigen Kompensation verlorener Fähigkeiten führen.
+
+So werden beispielsweise zur Wiederherstellung der Gehfähigkeit mit Physiotherapeuten Gangmuster eingeübt. Ergotherapeuten arbeiten gezielt mit den Patienten zur (teilweisen) Wiederherstellung der sensomotorischen Fähigkeiten.
+
+Die Bedeutung einer gezielten Logopädie bereits in der Frühphase und über einen langen Zeitraum wird häufig unterschätzt und nur laienhaft angegangen.
+
+Moderne Ansätze der Neurorehabilitation versuchen krankhafte Hirnaktivität zu beeinflussen. So findet sich bei einigen Patienten eine enthemmte Aktivität der nicht-geschädigten Hemisphäre, welche die motorischen Funktionen der vom Schlaganfall betroffenen Hirnhälfte stört. Eine Reduktion der Überaktivität, zum Beispiel mit Hilfe der transkraniellen Magnetstimulation (TMS), kann bei einem Teil der Patienten zu einer besseren Funktion der gelähmten Hand führen.[19] Derzeit läuft an den National Institutes of Health (NIH) eine Multicenter-Studie zur Wirksamkeit der Magnetstimulationstherapie in Kombination mit einer pharmakologischen Stimulation mit dem Dopamin-Präparat „Levo-DOPA“. Durch Letzteres sollen die TMS-Effekte verstärkt werden. Auch andere Medikamente aus der Gruppe der monoaminergen Substanzen wie Paroxetin (serotonerg), Fluoxetin (serotonerg) oder Reboxetin (adrenerg) können Schlaganfall-Defizite transient verbessern, wie in Placebo-kontrollierten Studien gezeigt werden konnte.[20] Ein neuer technischer Ansatz zur Verbesserung von Ausfällen besteht in der transkraniellen Gleichstrom-Behandlung (transcranial direct current stimulation, tDCS), was derzeit in mehreren Kliniken, unter anderem in Deutschland, überprüft wird.[21]
+Siehe auch
+
+Zu Einzelheiten bzgl. Symptomen, Diagnostik und Therapie siehe
+
+    Primär ischämischer Hirninfarkt
+    Hirnblutung
+    Subarachnoidalblutung
+    Transitorische ischämische Attacke
+    Stiftung Deutsche Schlaganfall-Hilfe
+    Modifizierte Rankin-Skala als Maß der bleibenden Behinderung nach einem Schlaganfall
+    European Stroke Conference
+
+Literatur
+
+    [Autorenkollektiv]: Meilensteine aus der Geschichte des Schlaganfalls. Von Apoplexis, Blutegeln und moderner Sekundärprävention, Boehringer Ingelheim, Ingelheim [o.J.] (53 S.).
+
+Lehrbücher
+
+    Jörg Braun, Roland Preuss, Klaus Dalhoff: Klinikleitfaden Intensivmedizin, 6. Auflage, Urban & Fischer, München / Jena 2005, ISBN 978-3-437-23760-7 (Medizinisches Lehrbuch).
+    Klaus Poeck, Werner Hacke: Neurologie. Mit 85 Tabellen [neue Approbationsordnung], 12., aktualisierte und erweitert Auflage, Springer, Heidelberg 2006, ISBN 978-3-540-29997-4 (Medizinisches Lehrbuch).
+    Patricia M. Davies: Hemiplegie. Ein umfassendes Behandlungskonzept für Patienten nach Schlaganfall und anderen Hirnschädigungen. In: Rehabilitation und Prävention. 2., vollständig überarbeitete Auflage, Springer, Berlin u. a. 2002, ISBN 3-540-41794-X (Lehrbuch zur krankengymnastischen Rehabilitation nach Schlaganfall).
+
+Einzelnachweise
+
+    ? Hamann 2002: Hamann, Gerhard F.; Siebler, Mario; von Scheidt, Wolfgang: Schlaganfall: Klinik, Diagnostik, Therapie, Interdisziplinäres Handbuch. ecomed Verlagsgesellschaft 2002, ISBN 3-609-51990-8.
+    ? Definition der WHO
+    ? Kommission Leitlinien der Deutschen Gesellschaft für Neurologie: Leitlinien der Deutschen Gesellschaft für Neurologie. 3 Auflage. Georg Thieme, Stuttgart 2005, ISBN 3-13-132413-9.
+    ? Kolominsky-Rabas et al.: A prospective community-based study of stroke in Germany--the Erlangen Stroke Project (ESPro): incidence and case fatality at 1, 3, and 12 months. Stroke. 1998;29:2501-6. PMID 9836758
+    ? Kommission Leitlinien der Deutschen Gesellschaft für Neurologie: Leitlinien der Deutschen Gesellschaft für Neurologie. 3 Auflage. Georg Thieme, Stuttgart 2005, ISBN 3-13-132413-9.
+    ? Clearingbericht "Deutsche Leitlinien zum Schlaganfall", 2005.
+    ? Stiftung Deutsche Schlaganfall-Hilfe: Symptome des Schlaganfalls. online, abgerufen am 30. Oktober 2011
+    ? M. S. Dittmar, B. Vatankhah, M. Horn, doi:10.1055/s-2004-828291 (2004)
+    ? Illustrierter Test auf der Internetseite der American Stroke Association: [1].
+    ? National Stroke Association
+    ? Liste von Stroke Units mit einer Zertifizierung seitens der Stiftung Deutsche Schlaganfall-Hilfe
+    ? kurze Patentbeschreibung (englisch)
+    ? www.innovations-report.de
+    ? Prof. Dr. med. Olav Jansen, Präsident der Deutschen Gesellschaft für Neurologische Rehabilitation, Direktor des Instituts für Neuroradiologie am Universitätsklinikum Schleswig-Holstein in Kiel, 2011
+    ? Evangelische Kliniken Gelsenkirchen
+    ? d-radio 11. Oktober 2011: Neue Behandlungsmöglichkeiten bei schweren Schlaganfällen (von Renate Rutta)
+    ? Taub, E.; Uswatte, G.; Pidikiti, R: Constraint-Induced Movement Therapy: a new family of techniques with broad application to physical rehabilitation--a clinical review. J Rehabil Res Dev. 1999 Jul;36(3):237-51. Review.
+    ? W. H. R. Miltner, E. Taub, H. Bauder: Behandlung motorischer Störungen nach Schlaganfall – Die Taubsche Bewegungsindikation. Hogrefe, Göttingen 2001, ISBN 3-8017-1464-0.
+    ? Nowak, D.A.; Grefkes, C., Fink, G.R.: Modern neurophysiological strategies in the rehabilitation of impaired hand function following stroke. Fortschr Neurol Psychiatr. 2008 Jun;76(6):354-60. Review. German.
+    ? Pariente, J.; Loubinoux, I.; Carel, C.; Albucher, J.F.; Leger, A.; Manelfe, C.; Rascol, O.; Chollet, F.: Fluoxetine modulates motor performance and cerebral activation of patients recovering from stroke. Ann Neurol. 2001 Dec;50(6):718-29.
+    ? Hummel, F.C.; Voller, B.; Celnik, P.; Floel, A.; Giraux, P.; Gerloff, C.; Cohen, L.G.: Effects of brain polarization on reaction times and pinch force in chronic stroke. BMC Neurosci. 2006 Nov 3;7:73.

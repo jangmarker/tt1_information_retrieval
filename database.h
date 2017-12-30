@@ -33,6 +33,7 @@ class Database
 public:
     void addDocument(Document&& document);
     void addDocument(const Document& document);
+    void addDocuments(std::vector<Document>&& documents);
     void recalculateWeights();
 
     SearchResults search(const Document& query);

@@ -55,6 +55,14 @@ void Database::addDocument(const Document& document)
     addDocument(std::move(copy));
 }
 
+
+void Database::addDocuments(std::vector<Document>&& documents)
+{
+    for (auto&& doc : documents) {
+        addDocument(std::move(doc));
+    }
+}
+
 void Database::recalculateWeights()
 {
     // C++17 structured bindings - Clion doesn't like them, yet :-(

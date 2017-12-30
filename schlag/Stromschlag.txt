@@ -1,0 +1,138 @@
+﻿Als Stromunfall, Elektrounfall oder auch elektrischer Schlag wird eine Verletzung durch die Einwirkung elektrischen Stromes auf den Menschen oder auf Tiere bezeichnet. Das Ausmaß der Schädigung wird dabei durch mehrere Faktoren bestimmt.
+
+Die häufigsten Folgen bei Stromunfällen sind thermische Auswirkungen, chemische Auswirkungen und muskelreizende oder muskellähmende Auswirkungen[1]. Letztere wiederum können zu Herzkammerflimmern, Herzstillstand oder Atemlähmung mit tödlichem Ausgang führen. Nicht zu unterschätzen sind auch indirekt verursachte Unfälle wie Stürze mit erheblichen Folgen.
+
+Maßgeblich für die Auswirkungen eines Stromunfalls sind:
+
+    die Stromstärke die sich bedingt durch weiter unten im Artikel beschriebene Umstände einstellt,
+    die Art des Stromes - Wechselstrom oder Gleichstrom,
+    der Strom-Weg über den Körper (z.B. Hand – Hand; Hand – Fuß, links, rechts)
+    die Wirkungsdauer des elektrischen Stroms
+
+Warnsymbol vor gefährlicher elektrischer Spannung
+Inhaltsverzeichnis
+
+    1 Einflussfaktoren
+        1.1 Stromart und -stärke
+        1.2 Spannung
+        1.3 Widerstand
+        1.4 Einwirkdauer
+    2 Häufigkeit
+    3 Gefahrenquellen
+    4 Spezielle Organschäden
+    5 Maßnahmen
+    6 Siehe auch
+    7 Literatur
+    8 Normen
+    9 Weblinks
+    10 Fußnoten
+
+Einflussfaktoren
+Blitzunfall, bei dem sich durch die Entladung Lichtenberg-Figuren in der Haut bilden
+Stromart und -stärke
+
+An der Skelettmuskulatur werden durch niederfrequenten Wechselstrom schon ab einer Stärke von 10 Milliampere (sog. Loslassschwelle, Gefährlichkeitsbereich AC3 beginnt) Kontraktionen ausgelöst, die aufgrund der stärkeren Ausbildung der Beugemuskeln (Flexoren) gegenüber den Streckmuskeln zu einem „Festhalten“ an den unter Spannung stehenden Teilen und damit zu einer längeren Einwirkzeit führen können. Ab 30–50 Milliampere kann im Bereich des Brustkorbs eine Kontraktur, das heißt Anspannung der Atemmuskulatur und des Zwerchfells auftreten und damit ein Atemstillstand für die Dauer des Stromflusses. Dieser kann auch erfolgen, wenn der Stromfluss das Atemzentrum im Hirnstamm in Mitleidenschaft zieht (z. B. typisch bei einem Blitzunfall mit Kopfdurchströmung).[2]
+
+Wechselstrom mit 50 Hz kann schon bei einer Stromstärke von 10 mA und bei einer Einwirkdauer länger als 2 Sekunden zum Tode durch Herzstillstand führen. Bei der in Deutschland und anderen europäischen Staaten üblichen Frequenz von 50 Hertz wirkt der Wechselstrom 100 mal pro Sekunde auf die empfindliche Phase des Herzmuskels ein. Die Verdopplung ergibt sich durch den Umstand, dass sowohl die positive als auch negative Halbwelle des Wechselstromes biologisch wirkt. Bei Unfällen mit Gleichstrom können demgegenüber noch Stromstärken von 300 mA überlebt werden.[3]
+
+Der konkrete Wert des den Körper durchfließenden elektrischen Stromes ergibt sich aus dem elektrischen Widerstand, den der menschliche bzw. tierische Körper bildet. Dieser ist nicht konstant und von verschiedenen Parametern abhängig. In der Praxis handelt es sich bei den Gefahrenquellen meist um Spannungsquellen. Der elektrische Strom ergibt sich dann aus dem Spannungswert und dem Körperwiderstand. Dennoch wird meist die Höhe der elektrischen Spannung als Kriterium für die Klassifizierung der Gefährlichkeit benutzt, da der Körperwiderstand sich in bestimmten bekannten Bereichen bewegt.
+
+Hochfrequenz ab etwa 100 kHz führt nur noch zu geringer, solche ab etwa 300 kHz führt zu keiner Nervenreizung mehr, da die in jenen herrschende Ionenleitung den schnellen Polaritätswechseln nicht zu folgen vermag. Die von der Spannung abhängigen thermischen Schädigungen können dennoch auftreten und sind bei HF-Chirurgie erwünscht, um Blutungen zu stoppen.
+Spannung
+
+In Deutschland darf die maximale Berührungsspannung laut Verband der Elektrotechnik, Elektronik und Informationstechnik 50 V Wechselspannung oder 120 Volt Gleichspannung nicht übersteigen. In Österreich darf die maximale Berührungsspannung laut Österreichische Verband für Elektrotechnik 65 V Wechselspannung oder 120 Volt Gleichspannung nicht übersteigen.
+
+Bei Kinderspielzeug, Räumen für Nutztiere und in der Medizintechnik ist die Berührungsspannung nur auf maximal 25 V Wechselspannung oder 60 V Gleichspannung festgelegt. Bei Niederspannung führt Wechselstrom zu ausgeprägteren Schäden als Gleichstrom, bei Hochspannung ist dies umgekehrt. Die Grenze zwischen Hoch- und Niederspannung ist bei 1000 Volt Wechselspannung oder 1500 Volt Gleichspannung angesetzt, für den klinischen Alltag wird aus praktischen Gründen jedoch oft ein Grenzwert von 500 Volt herangezogen. Damit zählen Elektrounfälle, zum Beispiel im U-Bahn-Bereich (dortige Nennspannung im Allgemeinen 750 V), zu den Hochspannungsunfällen, da sich diese klinisch von den Unfallfolgen durch Haushaltsstrom unterscheiden.
+
+Dabei wird allerdings vorausgesetzt, dass die Stromeinwirkung einige 100 ms lang dauert. Bei erheblich kürzeren Einwirkungsdauern um 1 ms können auch Spannungsspitzen von 10.000 Volt, wie sie in Elektrozaun-Geräten oder in Zündspulen durch Induktion erzeugt werden, problemlos überstanden werden.
+
+Ein Unfall durch Langzeiteinwirkung von Hochspannung bewirkt demgegenüber hauptsächlich eine thermische Schädigung des Gewebes und äußert sich damit vor allem als Verbrennungskrankheit. Dies ist deswegen der Fall, weil die dabei wirkenden Stromstärken ein Vielfaches derer bei Niederspannungsunfällen betragen und zugleich sehr heiße Störlichtbögen auftreten, die unter Umständen den menschlichen Körper überbrücken können. Beispielsweise führt eine Annäherung auf unter 5 Zentimeter an eine Hochspannungsleitung mit 30 Kilovolt, wie sie im Bereich von Mittelspannungsnetzen üblich sind, zu einem Lichtbogen und bei einem angenommenen Körperwiderstand von 5 kO fließt kurzzeitig ein Strom von etwa 6 Ampere durch den Körper. Dabei tritt eine thermische Leistung von rund 180 Kilowatt auf. Durch diese hohe Leistung kommt es zu einer fast schlagartigen Verdampfung von wasserhaltigem Gewebe im Bereich des Stromeintritts- bzw. Stromaustrittspunktes mit der Folge entsprechend massiver Verbrennungen.
+
+Die Einwirkzeiten liegen bei Hochspannungsunfällen im Bereich einiger 10 Millisekunden und damit um mehrere Zehnerpotenzen unter den Einwirkzeiten bei Niederspannungsunfällen, die bis in den Sekundenbereich reichen können. Die kurzen Einwirkzeiten bei Hochspannungsunfällen ergeben sich aus der Tatsache, dass meist kein direkter Leiterkontakt besteht und somit die Gefahr entfällt, sich am elektrischen Leiter krampfhaft festzuhalten. Bei hochspannungsführenden Leitern erfolgt bereits bei Annäherung vor direkter Berührung durch den sich bildenden Störlichtbogen in der Luft ein Stromfluss. Aus diesem Grund sind bei Arbeiten in der Nähe von hochspannungsführenden Teile entsprechende Sicherheitsabstände einzuhalten bzw. spezielle Sicherheitsregel wie bei Arbeiten unter Spannung zur Unfallvermeidung zu beachten.
+
+Bei manchen Unfällen mit Hochspannung kommt es ablaufbedingt zu einer Trennung des über den Körper führenden Stromkreises, beispielsweise wenn die betreffende Person durch den elektrischen Schlag niederstürzt und dadurch der Strom durch den Körper unterbrochen wird. Bei Hochspannungen der Energieversorgungsnetze ab etwa 100 Kilovolt ist der Stromfluss bei Annäherung so hoch, dass ein elektrischer Kurzschluss entsteht und der Netzschutz anspricht. Dabei besteht bei Freileitungen die Besonderheit, dass im Rahmen der üblichen automatischen Wiedereinschaltung nach einigen Sekunden die Leitung wieder unter Spannung gesetzt wird.
+
+Trotz der kurzen Einwirkzeiten besteht bei Hochspannungsunfällen für Unfallopfer eine geringere Wahrscheinlichkeit zu überleben als bei Niederspannungsunfällen.
+Widerstand
+
+Für den Körper-Gesamtwiderstand sind der Übergangswiderstand (Elektrischer Widerstand) an der Stromeintrittstelle der Haut, die Haut selbst, der Körperwiderstand (der Widerstand, den die einzelnen Körpergewebe für sich und in ihrer Gesamtheit dem Stromfluss entgegensetzen) und der Übergangswiderstand an der Austrittsstelle entscheidend. Letzterer wird oft maßgeblich durch die Beschaffenheit der Standfläche (Bodenverhältnisse) und das getragene Schuhwerk bestimmt.
+
+Als Richtwert kann man für den Körperwiderstand einen Bereich von 500 O bis 3 kO annehmen. Das gilt für einen Erwachsenen und einen Stromweg zum Beispiel von der rechten Hand zum linken oder rechten Fuß. Bei großflächiger Berührung, bei dünner Haut (beispielsweise bei Säuglingen) und bei kürzeren Wegen kann dieser Wert geringer ausfallen. Wird der Gesamtkörperwiderstand mit einem Multimeter und bei kleiner Messspannung gemessen, werden sehr hohe Werte von ca. 1 MO angezeigt. Bei der Berührung mit hohen Spannungen kommt es zum Durchschlag durch die Haut, sodass nur noch der Körperwiderstand alleine gilt. In einschlägiger Literatur geht man von einem Körperwiderstand von 1 kO bis 2,4 kO aus. Im Defibrillator, der eingesetzt wird, um Leben zu erhalten, beträgt die Spannung bis 750 Volt und liegt zwischen 1 und 20 ms an. Der Übergangswiderstand von den Elektroden zum Körper wird absichtlich besonders klein gemacht. Die Stromstärke erreicht dann bei einem angenommenen durchschnittlichen Körperwiderstand von 500 O bis zu etwa 1,5 A.
+Einwirkdauer
+
+Stromschläge führen zu Schäden, die von ihrer Dauer abhängen. So führen elektrostatische Entladungen (Spannungen bis über 15 Kilovolt) trotz ihrer hohen Stromstärke von einigen Ampere in der Regel nur zu Schreckreaktionen oder Folgeunfällen, da deren Entladungsdauer nur unterhalb einer Mikrosekunde liegt. Beim Weidezaungerät (Impulse von einigen Kilovolt) nutzt man dies aus, um Tiere fernzuhalten, ohne ihnen Schaden zuzufügen. In beiden Fällen kommt es bereits zu Muskelkontraktionen, die jedoch noch nicht zu dramatischen unkoordinierten Bewegungen führen. Schreckreaktionen können dabei jedoch zu Folgeunfällen führen.
+
+Übersteigt die Einwirkdauer etwa 100 Millisekunden, sinkt die Grenzstromstärke zum Herzkammerflimmern (Todesgefahr), die von 20 ms bis dahin knapp 500 mA beträgt, stark ab, bis sie ab etwa 1 s Einwirkdauer etwa 40 mA beträgt.[4] Dementsprechend lösen die zur Vermeidung von Stromschlägen eingesetzten Fehlerstromschutzschalter bei einem Fehlerstrom von 30 Milliampere innerhalb von 100 Millisekunden aus. Bei größeren Fehlerströmen ist die Auslösezeit geringer und beträgt minimal etwa 20 Millisekunden – ein Wert, der auch beim Berühren eines Netzspannung führenden Leiters durch eine mit der Erde verbundene Person noch Schutz bietet. Fehlerstromschutzschalter bieten nur Schutz bei Ableitströmen gegen Erde.
+Häufigkeit
+
+In Deutschland sterben jährlich zwischen 50 und 120 Personen[5] an den Folgen von Elektrounfällen, wobei ca. 90 % durch Niederspannung und 10 % durch Hochspannung verursacht werden[6]. Etwa 30 % der Hoch- und 3 % der Niederspannungsunfälle führen zum Tod.[2]
+
+Das Institut zur Erforschung elektrischer Unfälle (BG ETF) bei der Berufsgenossenschaft Energie Textil Elektro Medienerzeugnisse (BG ETEM) in Köln sammelt seit Jahrzehnten statistische Daten zu Elektrounfällen in Deutschland, die aufgrund der großen Datenmengen auch Aussagen über die Todeshäufigkeit zulassen.
+Stromweg 	Unfälle gesamt 	davon tödlich 	rel. Verteilung
+(insgesamt) 	rel. Verteilung
+(tödlich) 	Letalität
+Hand-Hand 	2891 	82 	77,3 % 	48,5 % 	2,84 %
+Hand-Fuß 	349 	19 	9,2 % 	11,2 % 	5,44 %
+Hand-Füße, Hände-Fuß 	294 	18 	7,7 % 	10,7 % 	6,12 %
+Hände-Füße 	106 	20 	2,8 % 	11,8 % 	18,67 %
+Verkürzte Stromwege Oberkörper
+(wie Hand-Brust, oder Brust-Rücken) 	108 	30 	3,0 % 	17,8 % 	27,78 %
+Insgesamt 	3748 	169 	100 % 	100 % 	4,51 %
+
+Basis für die Auswertung waren die am Institut zur Erforschung elektrischer Unfälle der BGFE (ab 2008: BG ETF) in den Jahren 1969 bis 1996 gemeldeten Arbeitsunfälle durch elektrischen Strom.[7] Die Daten in der Tabelle umfassen nur Stromunfälle im Niederspannungsbereich von 130 Volt bis 400 Volt mit 50 Hertz Wechselspannung, bei denen von einer minimalen Durchströmungsdauer von 300 Millisekunden ausgegangen werden kann.
+
+Aus Tierversuchen mit Schweinen wurden von einer Forschergruppe um J. Jacobson Wahrscheinlichkeiten des Eintretens von Herzkammerflimmern ermittelt.[8] Ziel war die Ermittlung von Vergleichsfaktoren, um die gemessenen Daten auf den Menschen übertragen zu können. Folgende Versuchsbedingungen bestanden:
+
+    Wechselstrom mit 50 Hertz
+    Einwirkdauer 75 % der Herzpuls-Periodendauer
+    Längsdurchströmung (rechtes Ohr zur linken Kniefalte)
+    Körpermasse der Schweine 15 kg bis 25 kg
+
+Flimmerwahrscheinlichkeit 	1 Prozent 	5 Prozent 	50 Prozent 	95 Prozent
+Strom-Effektivwert in A 	0,63 	0,79 	1,50 	2,80
+
+Zur Übertragung dieser Stromwerte auf die Verhältnisse beim Menschen (rechter Arm zum linken Fuß) wurde ein Korrekturfaktor von 2,8 ermittelt. Das heißt, die Effektivwerte für den Strom in der Tabelle müssen mit 2,8 multipliziert werden. Konservativ (mit einem Sicherheitsfaktor) wird dieser Korrekturfaktor nur mit 1,5 angenommen.
+Gefahrenquellen
+Gefahrenquelle defektes Netzkabel
+
+Verbreitete Ursachen für einen elektrischen Schlag sind:
+
+    Defekte elektrische Geräte bzw. elektrische Leitungen und menschliche Fehler im Umgang damit (zum Beispiel Unachtsamkeit oder Fahrlässigkeit)
+    Beschädigungen von Überland- und Freileitungen durch Unwetter und Sturm
+    Berührung von Überland- und Freileitungen (z. B. mit Spielzeugdrachen)
+    Blitzschlag
+    Unfachmännischer Eingriff in die bestehende Elektroinstallation
+    Brände in Hochspannungsanlagen (auch elektrischen Bahnen), die mit ungeeigneten Löschmitteln bekämpft werden
+    Unfälle an elektrisch betriebenen Anlagen oder Geräten
+    Falsche Absprachen über das Freischalten von Anlagen und Leitungen
+    Kontakt mit einer Elektroschockpistole (Taser)
+
+Spezielle Organschäden
+Verbrennungen durch Stromunfall
+
+Die Folgen des Elektrounfalls sind abhängig von der Empfindlichkeit der einzelnen Gewebe.
+
+Elektrischer Strom geht bevorzugt den Weg des geringsten Widerstandes. Somit spielen die unterschiedlichen Widerstände der einzelnen Gewebe im menschlichen Körper eine entscheidende Rolle. Den niedrigsten Widerstand weist das Nervengewebe auf. In aufsteigender Reihenfolge folgen Arterien, Muskeln, Haut, Sehnen, Fettgewebe und Knochen.[2] Dementsprechend ist bei Gleichstrom und niederfrequenten Strömen die Wahrscheinlichkeit einer Schädigung des Nervengewebes am größten, gefolgt von den Arterien, Muskeln usw.
+
+Die Symptome sind:
+
+    Brandverletzungen an den Ein- und Austrittsstellen des Stroms
+    Lähmung der Muskulatur der Extremitäten und des Herzens durch den Stromfluss
+    Gasbildung im Blut durch die Elektrolyse des Blutes
+    Knochenbrüche durch ein schlagartiges Verkrampfen der Muskeln
+    Verletzungen durch Folgeunfälle (beispielsweise bei einem durch einen elektrischen Schlag herbeigeführten Sturz)
+
+Maßnahmen
+
+Generell ist das Schema der Rettungskette der Ersten Hilfe auch hier zu beachten und bei Hilfeleistungen unbedingt auf Eigenschutz zu achten. Hierbei ist unter anderem wichtig:
+
+    Den Verletzten nicht berühren. Zur Rettung zuerst Spannungsfreiheit der Anlage sicherstellen. Anlagen und Geräte müssen mit einem gegebenenfalls vorhandenen Not-Aus-Taster oder einer elektrischen Sicherung von der Stromversorgung getrennt werden. Das bloße Abschalten des Gerätes oder der Leitung stellt die Spannungsfreiheit nicht sicher.
+    Freiliegende, stromführende Kabel mit Hilfe nichtleitender Gegenstände (z. B. Besenstiel aus Holz) vom Verletzten wegziehen.
+    Bei Hochspannung großen Sicherheitsabstand einhalten, da ansonsten die Gefahr einer Lichtbogenbildung besteht.
+    Außenstehende warnen, damit keine stromführenden Teile berührt werden (Absperrungen einrichten).
+
+Bei bewusstlosen Patienten ist nach dem Abschalten der Stromversorgung die Sicherstellung von Atmung und Herz-Kreislauffunktion vorrangig. Gegebenenfalls ist die sofortige Herz-Lungen-Wiederbelebung einzuleiten. Geschultes Rettungspersonal führt bei Kammerflimmern eine Defibrillation durch. Falls verfügbar, kommt ein öffentlich zugänglicher Laiendefibrillator zur Anwendung.
+
+Bei ansprechbaren Patienten sind Brandverletzungen zu kühlen und mit einer keimarmen, nicht flusenden Wundauflage abzudecken. Der Patient sollte auch bei völligem Wohlbefinden bis zum Ausschluss einer Herzschädigung nicht unbeaufsichtigt bleiben. Erforderlich ist hierzu immer ein 12-Kanal-Elektrokardiogramm. Daher erfolgt in der Regel durch den alarmierten Rettungsdienst ein Transport in die Notaufnahme eines Krankenhauses. Falls Veränderungen im Elektrokardiogramm nachweisbar sind, ein Hochspannungsunfall vorlag oder besondere Risikofaktoren bestehen, wird dort eine mehrstündige Beobachtung mit EKG-Monitoring durchgeführt.
+
+Die weiteren Maßnahmen richten sich nach der Schwere der Verbrennungen. Durch die Wärmewirkung des elektrischen Stromes kommt es zum Flüssigkeitsverlust im Körper. Ebenso kann die Verkohlung des betroffenen Gewebes (Nekrose) zur Entstehung von Giftstoffen führen. Die Gefahr einer Sepsis mit Todesfolge droht durch bakterielle Infektion der geschädigten Organe. Um eine Schädigung der Nieren zu mindern, ist es notwendig, den Flüssigkeitsverlust durch intravenöse Volumengabe, zum Beispiel Natriumchlorid-Infusionslösung, auszugleichen.

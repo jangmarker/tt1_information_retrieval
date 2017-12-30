@@ -1,0 +1,86 @@
+﻿Der Takt (von lateinisch tactus ‚Berührung‘, ‚Stoß‘) bezeichnet in der Musik eine Gruppierung von bestimmten Notenwerten mit gleicher Zählzeit, die meistens mit dem Grundschlag identisch sind.
+
+Der Takt dient als gedachtes, grundlegendes Rahmenwerk für die tatsächliche Musik. Durch deren wechselnde Notenwerte, die mit den Zählzeiten des Taktes zusammenfallen oder aber von ihnen abweichen, entstehen dann die Rhythmen eines Musikstücks. Gefühlt wird der Takt in Musik europäischer Prägung durch regelmäßige Betonungen des Pulses oder Grundschlags. In den Takt als Struktur ist die Zählzeit als zeitliche Maßeinheit eingebettet. Die Zählzeit entspricht in den allermeisten Fällen einem Puls- bzw. Grundschlag.
+Inhaltsverzeichnis
+
+    1 Taktart
+    2 Auftakt
+    3 Notation
+    4 Dirigieren
+    5 Weblinks
+    6 Siehe auch
+
+Taktart
+
+Die Taktart definiert sich danach, wie viele Puls- oder Grundschläge eines Notenwertes zusammengehören. So enthält der 4/4-Takt vier Grundschläge oder Zählzeiten im Wert je einer Viertelnote. Die obere Zahl der Taktangabe bedeutet also die Anzahl der Schläge pro Takt, die untere Zahl bedeutet den Notenwert jedes dieser Schläge.
+
+Zudem wird einem Takt meistens eine metrische Struktur, also eine Betonungsordnung zugewiesen (daher auch der Name Akzentstufentakt; manchmal werden deshalb die Wörter Takt und Metrum gleichbedeutend verwendet). Im Fall des 4/4-Takts wäre das beispielsweise:
+
+    schwer – leicht – halbschwer – ganz leicht
+
+oder auch nur
+
+    schwer – leicht – schwer – leicht
+
+Bestimmte Stilistiken, wie etwa der Swing, verwenden hingegen eine Backbeat-Betonung, also:
+
+    leicht – schwer – leicht – schwer
+
+Man unterscheidet:
+
+    einfache Taktarten (Grundtaktarten) – Der Zähler von einfachen Taktarten ist eine 2 oder 3, in seltenen Fällen auch eine 1 (Beispiele: 2/2, 2/4 oder 3/4, 3/8). "Einfach" deshalb, weil es nur eine betonte Zählzeit gibt. Es gibt in solchen Taktarten keine Nebenbetonungen:
+
+    betont - unbetont = "Zweiertakt"
+    betont - unbetont - unbetont = "Dreiertakt"
+
+Damit korrespondieren sie mit der zwei- bzw. dreisilbigen Metrik der Dichtkunst, wo ebenfalls jede zweite oder jede dritte Silbe betont wird.
+
+    zusammengesetzte Taktarten – Zusammengesetzte Taktarten sind eine Zusammenfassung von mehreren einfachen Taktarten, d. h. der Zähler lässt sich in eine Addition von Zweien und Dreien zerlegen (Beispiel: 4/4, 6/4, 8/4, 4/8, 6/8, 8/8, 9/8, aber auch 5/4, 7/8, 12/16 ). Aufgrund der möglichen Mehrdeutigkeiten beim Untergliedern ist die Betonungsverteilung (Metrik) gelegentlich nicht aus der Taktart ablesbar (z. B. 5/8 = 2/8 + 3/8 oder 3/8 + 2/8).
+
+Weiter werden unterschieden:
+
+    gerade Taktarten – der Zähler des Taktes ist gerade (Beispiele: 2/2, 2/4, 4/4, 6/4, 6/8 etc.)
+    ungerade Taktarten – der Zähler des Taktes ist ungerade (Beispiele: 3/8, 3/4, 5/8, 5/4,7/8 etc.)
+
+Früher nannte man dreiteilige Taktarten Tripeltakt. Diese waren die einzige Spezies der ungeraden Taktarten, die in der klassischen Musik regelmäßig verwendet wurden, z. B. als 3/1-, 3/2-, 3/4-, 3/8-, 9/8- und 9/4-Takt.
+Auftakt
+
+Als Auftakt bezeichnet man den Beginn einer musikalischen Phrase mit einer oder mehreren, meist unbetonten Noten vor Beginn der ersten (in der Regel betonten) Zählzeit. Im Gegensatz dazu wird im Jazz der Auftakt oft stärker betont als der Haupttakt. In klassischer Zeit betrachtete Jérôme-Joseph de Momigny (1762–1842) den Auftakt bereits als bevorzugtes Element der Phrasierung, indem er ihn betonte. Der Auftakt ist ein unvollständiger Takt, das heißt im Musikstück sind nicht die erforderlichen Grundschläge vorhanden. Der Auftakt ergänzt sich zusammen mit dem Schlusstakt zu einem vollständigen Takt.
+
+In Liedern dient der Auftakt dazu, die sprachliche Betonung und den musikalischen Takt miteinander in Einklang zu bringen. Zahllose Lieder beginnen mit einem Auftakt, beispielsweise (Die erste Betonung ist unterstrichen):
+
+    Das Wandern ist des Müllers Lust (Deutschland)
+    Pera stous, pera kambous (Griechenland)
+    Alas, my love, you do me wrong (England)
+    Petit papa noël (Frankreich)
+
+In der traditionellen europäischen Musik enden ganztaktige Stücke ganztaktig; im Bedarfsfall wird mit Pausen vor der ersten oder nach der letzten Note ergänzt. Ein auftaktiges Stück folgt dieser Regel, verkürzt aber den letzten Takt um die Länge des Auftakts.
+Notation
+Notation des 3/4-Taktes
+
+In der Notenschrift werden die einzelnen Takte durch senkrechte Taktstriche abgegrenzt.
+
+Die Taktart wird in Form eines Bruches mit Zähler und Nenner, jedoch ohne Bruchstrich geschrieben (siehe Bild für einen 3/4-Takt) und steht als Taktangabe am Anfang eines Musikstückes nach Schlüssel und Vorzeichen. Der Nenner legt fest, welcher Notenwert einer Zählzeit entspricht. Der Zähler zeigt die Anzahl der Zählzeiten pro Takt an. Weiter sind aus der älteren Mensuralnotation die Schreibweisen 4/4-Takt für den 4/4-Takt sowie alla breve für den 2/2-Takt (alla breve) üblich.
+
+Bei Taktwechseln wird die neue Taktangabe ins Notensystem geschrieben; oft wird zur zusätzlichen Verdeutlichung ein Doppelstrich gesetzt. Werden verschiedene Taktarten in alternierender oder beliebiger Reihenfolge verwendet, so ist es möglich, diese Taktarten einmal hintereinander am Beginn des Notensystems zu notieren und die Taktartwechsel im Stück nicht gesondert anzuzeigen. Ändert sich die Taktart sehr häufig, kann die Taktangabe am Anfang des Systems entfallen.
+
+Häufig werden die Takte eines Musikstückes im Notenbild durchnummeriert, entweder am Beginn jedes Systems oder nach einer festen Anzahl von Takten (in der Regel zehn oder fünf).
+
+Musik wurde bis gegen Ende des 16. Jahrhunderts ohne Taktstriche notiert (siehe auch: Mensuralnotation).
+Dirigieren
+
+Beim Dirigieren wird der Takt durch Schlagfiguren angezeigt.
+
+Historische Zitate:
+
+    „Der Takt ist nichts anders / als eine Bewegung / so geschieht mit der Hand oder einem Stocke.“
+
+    – Wolfgang Hase: Gründliche Einführung in die edle Music Oder Singe-Kunst. Goslar 1657
+
+    „Was ist der Takt? Er ist nach Arithmetischer Abteilung eine gewiese Gleichheit / mit der Hand nieder / und wieder also in die Höche oder aufzuschlagen.“
+
+    – Daniel Speer: Grundrichtiger, kurz-, leicht- und nötiger, jetzt wohlvermehrter Unterricht der musikalischen Kunst. Ulm 1687
+
+    „Der Tact bestimmet die Zeit, in welcher verschiedene Noten müssen abgespielet werden … Der Tact wird durch das Aufheben und Niederschlagen der Hand angezeiget …“
+
+    – Leopold Mozart: Versuch einer gründlichen Violinschule. Augsburg 1756

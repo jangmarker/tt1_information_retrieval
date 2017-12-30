@@ -1,0 +1,61 @@
+﻿Die Schlagzahl ( n* ) ist die Anzahl der hörbaren Antriebsimpulse (Schlägen) eines zweiarmigen Ankers einer mechanischen Uhr, die dieser in einer Stunde abgibt.[1]
+Inhaltsverzeichnis
+
+    1 Historie
+    2 Schlagzahl und Frequenz
+        2.1 Beispiel: Armbanduhren
+        2.2 Beispiel: Sekundenpendel
+    3 Messverfahren
+    4 Einzelnachweise
+
+Historie
+
+Die Schlagzahl ist eine historische Größe, die bis heute noch von Uhrmachern in Bezug auf zweiarmige Ankerhemmungen benutzt wird. In fast allen anderen technischen Bereichen hat sich die physikalische Größe Frequenz durchgesetzt.
+Schlagzahl und Frequenz
+
+Ein Vorgang, der stets in gleicher Weise in einem regelmäßigen Rhythmus wiederkehrt, heißt periodisch. Die Zeit, die zwischen zwei gleichen Stellungen eines vorangegangen Ablaufs und seiner Wiederholung verstreicht, heißt Periodendauer oder auch Schwingungsdauer ( T ). Die Frequenz ist der Kehrwert der Periode.
+
+Mit Frequenz ( f ), bezeichnet man die Anzahl von gleichen Ereignissen innerhalb eines bestimmten Zeitintervalls. Ihre Dimension ist 1/Zeit. Die Einheit der Frequenz, das Hertz, kurz 'Hz', ist dementsprechend abgeleitet von der SI-Basiseinheit Sekunde
+
+    1 \,\mathrm{Hz} = \frac{1}{\mathrm{s}} 
+
+Die meisten mechanischen Uhren sind mit zweiarmigen Ankern aufgebaut und geben deshalb die bekannten „Tick–Tack“ Geräusche ab. Sowohl das „Tick“ als auch das „Tack“ sind das Geräusch, das man „Schlag“ nennt. Die Anzahl der hörbaren Schläge und damit nun auch der Halbschwingungen[2] pro Stunde ist laut oben gegebener Definition die Schlagzahl.
+
+Die Beziehung zwischen Schlagzahl ( n* ) und Frequenz ( f ):
+
+    {n*} = 2 {f}\cdot 3600 
+
+
+    {f} = \frac{n*}\mathrm{7200} 
+
+Beispiel: Armbanduhren
+
+Schlagzahl, Periodendauer und Frequenz der Unruh automatischer Armbanduhren[3]
+Schlagzahl
+[1/h] 	Schlagdauer
+[s] 	Schwingungszahl
+[1/h] 	Periodendauer
+[s] 	Frequenz
+[Hz]
+18.000 	0,200 	9.000 	0,400 	2,50
+19.800 	0,182 	9.900 	0,364 	2,75
+21.600 	0,171 	10.800 	0,333 	3,00
+28.800 	0,125 	14.400 	0,250 	4,00
+36.000 	0,100 	18.000 	0,200 	5,00
+Beispiel: Sekundenpendel
+
+Schlagzahl, Periodendauer und Frequenz für ein Sekundenpendel
+Schlagzahl
+[1/h] 	Schlagdauer
+[s] 	Schwingungszahl
+[1/h] 	Periodendauer
+[s] 	Frequenz
+[Hz]
+3.600 	1,000 	1.800 	2,000 	0,50
+
+Ein sogenanntes Sekundenpendel hat eine Periodendauer von 2 Sekunden und schwingt mit einer Frequenz von 0,5 Hertz.
+Messverfahren
+
+Die hörbaren Antriebsimpulse (Schläge) einer mechanischen Uhr werden mit Hilfe einer Zeitwaage abgehört und weiterverarbeitet. Streng genommen wird dabei die Schlagzahl gemessen, auf die Frequenz umgerechnet und mit einem Zeitnormal verglichen. Mit diesem Messverfahren kann eine etwaige Abweichung in der Ganggenauigkeit einer mechanischen Uhr rasch feststellt werden.
+
+Bei manchen mechanischen Uhren, die keinen zweiarmigen Anker haben, entsteht je Schwingung nur ein einziger hörbarer Antriebsimpuls, so etwa bei der Chronometerhemmung. In diesem Fall ist die gemessene Anzahl der Schläge zu verdoppeln, um aus der "Schlagzahl" die Frequenz zu berechnen.

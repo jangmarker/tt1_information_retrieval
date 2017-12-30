@@ -1,0 +1,66 @@
+﻿Uhrschlag nennt man das regelmäßige Schlagen von Kirchenglocken oder Signalgebern anderer Uhren zur bestimmten Uhrzeit, meist auch zu jeder Viertelstunde. Es zählt zu den Zeitzeichen und stammt aus der Zeit des Mittelalters, als der Großteil der Bevölkerung keine Uhr hatte und von der Turmuhr der Kirche abhängig war. Die Tradition hat sich jedoch bis heute gehalten.
+
+Der Uhrschlag wird von Hand, elektromotorisch oder mit einem Schlagwerk ausgeführt.
+Inhaltsverzeichnis
+
+    1 Bürgerlich
+        1.1 Stundenschlag
+            1.1.1 Repetitionsschlag
+        1.2 Halbstundenschlag
+        1.3 Viertelstundenschlag (viertel, halb, dreiviertel und voll)
+        1.4 Beispiele
+        1.5 Video-Beispiele von Schlägen
+    2 Nautisch
+        2.1 Glasenschlag
+    3 Siehe auch
+    4 Einzelnachweise
+
+Bürgerlich
+
+Die verwendeten Glocken haben meistens zwei verschiedene Größen beziehungsweise Tonhöhen. Die Läuteordnung variiert leicht von Ort zu Ort, lautet aber in der Regel wie folgt:
+Stundenschlag
+
+Die Anzahl der Schläge der tontieferen Glocke zeigt an, welche Stunde gerade vollendet ist, dabei gilt das 12-Stunden-System. Der Stundenschlag kann gemeinsam mit den Viertelstundenschlägen (s.u.) wiederholt werden, wobei er i.d.R. dem jeweiligen Viertelstundenschlag (auf tonhöherer Glocke) folgt. In Italien ist es weit verbreitet, dass er diesem vorangeht (siehe Beispiel d)).
+Repetitionsschlag
+
+Eine automatische Wiederholung (lat. repetitio) des Stundenschlages kann entweder direkt im Anschluss mit einer tontieferen Glocke oder wenige Minuten später auf der gleichen Glocke erfolgen. Dieses Schlagsystem ist in der Schweiz und in südlichen Teilen Deutschlands weit verbreitet.
+? Hauptartikel: Repetitionsschlagwerk
+Halbstundenschlag
+
+Der einzelne Schlag zur halben Stunde wird meist bei Uhrwerken mit nur einer Schlagglocke ausgeführt. Ist mehr als eine Glocke vorhanden, wird der Halbstundenschlag über die tonhöhere Glocke erfolgen. Beispiel hierfür: Kath. Pfarrkirche St. Mauritius in Naters/VS.
+Viertelstundenschlag (viertel, halb, dreiviertel und voll)
+
+Die tonhöhere Glocke wird für jede Viertelstunde innerhalb der angebrochenen Stunde je einmal angeschlagen, also 1x für viertel, 2x für halb, 3x für dreiviertel. Die volle Stunde wird durch vier Schläge bezeichnet, diese können aber auch weggelassen werden. Die Viertelschläge können sowohl durch Wechselschläge (häufig in Süddeutschland und in der Schweiz) auf zwei oder drei Glocken als auch durch festgelegte Melodieschemen ausgeführt werden.
+Beispiele
+
+Folgende Beispiele für Uhrschläge in dem Zeitintervall von 03:00 bis 04:00 Uhr bzw. 15:00 bis 16:00 Uhr, mit einer oder mehreren Glocken, wobei die Ziffer 1 eine große Glocke bezeichnet, und die Ziffern 2, 3, 4 im Vergleich dazu kleiner werdende Glocken bezeichnen.
+Uhrzeit 	Viertelstundenschlag 	Stundenschlag 		Beispiel
+Volle Stunde 	(-) 	1; 1; 1 	Uhrschlag ohne Viertelstundenschlag 	[1]
+	2; 2; 2; 2 	1; 1; 1 	Uhrschlag mit vorherigem Viertelstundenschlag 	
+Volle Stunde (mit Wechselschlag) 	4,2,3; 4,2,3; 4,2,3; 4,2,3 	1; 1; 1 	2-3 kleine Glocken bilden einen Wechselschlag 	
+Viertel-Stunde (15:15 Uhr) 	2 	(-) 		
+Halbe-Stunde (15:30) 	2, 2 	(-) 	manchmal auch anstelle der zwei Viertel-Stunden-Schläge
+ein Schlag mit der Stundenschlags-Glocke 	
+Dreiviertel-Stunde (15:45) 	2; 2; 2 	(-) 		
+Video-Beispiele von Schlägen
+
+Videos zu Beispielen, die verschiedene Schläge und die Funktion des Schlagwerkes anschaulich zeigen:
+
+    BimBam-Schlag eines Heimuhrwerkes zur halben Stunde
+    BimBam-Schlag eines Heimuhrwerkes zur vollen Stunde (2 Uhr)
+    BimBam-Schlag eines Heimuhrwerkes kurz nach der vollen Stunde (2 Uhr), ausgelöst durch Betätigung der Repetition
+    Schlag auf Rundgong eines Standuhrwerkes zur halben Stunde
+    Schlag auf Rundgong eines Standuhrwerkes zur vollen Stunde (2 Uhr)
+    Schlag auf Rundgong eines Standuhrwerkes kurz nach der vollen Stunde (2 Uhr), ausgelöst durch Betätigung der Repetition
+
+Videos zu Beispielen, die den Westminsterschlag und die Funktion des Schlagwerkes anschaulich zeigen:
+
+    Westminster-Schlag 15 Minuten
+    Westminster-Schlag 30 Minuten
+    Westminster-Schlag 45 Minuten
+    Westminster-Schlag zur vollen Stunde
+
+Nautisch
+Glasenschlag
+
+Der Glasenschlag bzw. das Umdrehen der Sanduhr wird vom Wachhabenden an der Schiffsglocke oder von einer Glasenuhr in einem festgelegten Rhythmus angeschlagen. Jede volle Stunde ist ein Doppelschlag, jede halbe Stunde ein einzelner Schlag. Wenn man beispielsweise nachmittags zwei Doppelschläge und einen einzelnen Glockenschlag hört (= 5 Glasen), dann ist es entweder 14:30 oder 18:30 Uhr.[2]

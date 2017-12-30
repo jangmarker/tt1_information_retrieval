@@ -1,0 +1,319 @@
+﻿Ein Blitz ist in der Natur eine Funkenentladung oder ein kurzzeitiger Lichtbogen zwischen Wolken oder zwischen Wolken und der Erde. In aller Regel tritt ein Blitz während eines Gewitters in Folge einer elektrostatischen Aufladung der wolkenbildenden Wassertröpfchen oder der Regentropfen auf. Er wird dabei vom Donner begleitet und gehört zu den Elektrometeoren. Dabei werden elektrische Ladungen (Elektronen oder Gas-Ionen) ausgetauscht, d. h. es fließen elektrische Ströme. Blitze können auch, je nach Polarität der elektrostatischen Aufladung, von der Erde ausgehen.
+
+Künstlich im Labor mit Hochspannungsimpulsen erzeugte Blitze dienen deren Studium oder der Überprüfung von Einrichtungen des Stromnetzes hinsichtlich der Wirkung von Blitzeinschlägen. Obwohl Gewitterblitze zu den am längsten studierten Naturphänomenen gehören, sind die der natürlichen Blitzentstehung zugrundeliegenden physikalischen Gesetzmäßigkeiten bis heute noch nicht zweifelsfrei erforscht. Eine Blitzentladung ist dabei deutlich komplizierter als eine reine Funkenentladung.
+Blitze
+Inhaltsverzeichnis
+
+    1 Forschung
+    2 Theorien zur Entstehung
+        2.1 Entstehung elektrischer Ladung in einer Gewitterwolke
+        2.2 Spannungen innerhalb einer Gewitterwolke: Wolkenblitz und Erdblitz
+        2.3 Entstehung eines Blitzkanals durch Ionisation: Leitblitz, Fangentladung und Hauptblitz
+        2.4 Dauer, Stromstärke und Polarität von Blitzen
+        2.5 Länge eines Blitzes
+        2.6 Entstehung des Donners
+        2.7 Spannungskegel
+    3 Erscheinungsformen
+        3.1 Linienblitz
+        3.2 Flächenblitz
+        3.3 Perlschnurblitz
+        3.4 Kugelblitz
+        3.5 Wetterleuchten
+        3.6 Elmsfeuer
+        3.7 Positiver Blitz
+        3.8 Elfen und Kobolde
+    4 Häufigkeit von Blitzen
+        4.1 Blitzereignis und Blitzdichte
+        4.2 Ortung
+        4.3 Entfernungsabschätzung über das Zeitintervall zum Donner
+    5 Blitzstatistik
+        5.1 Deutschland
+        5.2 Österreich
+        5.3 Schweiz
+    6 Blitzschäden und Schutzmaßnahmen
+        6.1 Wirkung auf Menschen
+        6.2 Verhalten bei Gewittern
+        6.3 Baurecht und Blitzschutz
+            6.3.1 Gesetzliche Vorgaben
+            6.3.2 Risikoanalyse – Blitzschutznachweis
+    7 Mythologie
+    8 Blitze auf anderen Planeten
+    9 Literatur
+    10 Siehe auch
+    11 Weblinks
+    12 Einzelnachweise
+
+Forschung
+
+    Drei Blitze in München, Haidhausen 1983
+
+    Blitze
+
+    Blitze innerhalb der Wolken
+
+    Blitzeinschlag in einen Baum
+
+Benjamin Franklin bewies am 15. Juni 1752 die Hypothese, dass bei Gewittern eine elektrische Spannung zwischen Wolken und der Erde besteht, indem er einen Drachen in aufziehende Gewitterwolken aufsteigen ließ und so eine Funkenentladung auslöste. Dies war der Beginn der neuzeitlichen Blitzforschung. Bis heute sind allerdings nicht alle Erscheinungsformen von Blitzen sowie die damit verbundenen Effekte umfassend und unumstritten wissenschaftlich erklärt, insbesondere wie die Ladungsunterschiede entstehen, die zum Blitz führen.
+
+Heutzutage haben sich verschiedene Verfahren zur Untersuchung von Blitzen etabliert, die auch darauf achten, das Risiko für die Forscher möglichst gering zu halten (im Gegensatz zur Methode Franklins). Häufig werden Raketen abgeschossen, die einen metallischen Draht hinter sich herziehen (Blitztriggerung). Der Blitz gelangt durch den Draht zur Messstation, wo er analysiert werden kann. Andere Verfahren stützen sich auf Wetterballons oder Messungen durch Flugzeuge.
+
+Lange Zeit war das Forschungsinteresse an natürlichen Blitzen gering, da man glaubte, sie wie Funkenentladungen behandeln zu können, wie sie ohne Weiteres im Labor erzeugt werden können. Erst seit Ende der 1990er-Jahre hat sich dies geändert, da Ungereimtheiten auftraten, die durch das einfache Modell nicht erklärt werden konnten. Es stellte sich als unmöglich heraus, mit den heutigen Mitteln Blitze zur Energiegewinnung auszunutzen. Einige der jüngsten Forschungsergebnisse in diesem Bereich werden hier vorgestellt:
+
+    In Österreich läuft auf dem Salzburger Gaisberg ein Blitzforschungsprojekt von ALDIS.
+    In Brasilien untersucht das DLR-Forschungsflugzeug Falcon die Entstehung von Stickoxiden durch Blitze in tropischen Gewittern.
+    Im Jahre 2001 konnte nachgewiesen werden, dass Blitze auch Röntgen- und Gammastrahlung aussenden. Diese Ergebnisse wurden in den folgenden Jahren vielfach bestätigt, besonders durch den Nachweis von Gammastrahlung aus Gewitterzonen durch den NASA-Forschungssatelliten RHESSI.
+    Im Blitzkanal können auch Kernfusionsreaktionen stattfinden, wie durch Messungen einer russischen Forschungsgruppe nahe Moskau festgestellt wurde, wobei der während der Entladung auftretende Neutronenfluss einige Hundertfache des natürlichen Neutronenflusses (zirka 50 pro cm² und Stunde) betragen kann.[1][2]
+
+Theorien zur Entstehung
+Fotoserie eines Blitzes im Abstand von 0,32 Sekunden
+Animation einer Blitzentladung
+Entstehung elektrischer Ladung in einer Gewitterwolke
+
+Nach dem heutigen Wissensstand gibt es eine Reihe von Mechanismen in einer Gewitterwolke, die zur Elektrifizierung der Gewitterwolke beitragen. Man unterscheidet dabei zwischen induktiven und nicht-induktiven Aufladungsmechanismen, wobei letztere die weitaus wichtigere Kategorie darstellen.
+
+Grundvoraussetzung für die Entstehung von elektrischer Ladung sind kräftige Aufwinde innerhalb einer nach oben wachsenden Cumulonimbuswolke, die 5–20 m/s und mehr[3] erreichen können. In der Wolke kondensiert zunächst Wasserdampf zu kleinen aber ständig wachsenden Wassertröpfchen. Ist die Cumulonimbuswolke hoch genug, und reicht sie damit in kältere Luftschichten deutlich unterhalb der Nullgradgrenze, gefrieren die Niederschlagspartikel zu Eispartikeln. Durch Resublimation wachsen diese weiter an. Mit der Zeit werden die Graupelteilchen schwer genug, dass sie entgegen der Richtung der Aufwinde zum Erdboden fallen.
+
+In diesem Stadium kollidieren kleinere, noch leichte Eiskristalle mit dem Graupelteilchen und geben dabei Elektronen an die Graupelteilchen ab. Diese nehmen eine negative Ladung an und sinken so geladen weiter in den unteren Teil der Wolke. Die leichten, jetzt positiv geladenen Eiskristalle werden von den Aufwinden weiter nach oben getragen. Dadurch kommt es zu einer Ladungstrennung und es entstehen beachtliche Raumladungen.[4] Die Stärke der Raumladungen ist dabei direkt abhängig vom Eisgehalt der Wolke. Das ist das Ergebnis der Tropical Rainfall Measurement Mission (TRMM), die eine starke Korrelation zwischen der Eismenge in einer Wolke und der Blitzhäufigkeit erkannte.[5]
+
+In Wolkenbereichen mit hohem Graupelanteil werden Luftmassen durch die nach unten fallenden Graupelteilchen mit nach unten gerissen und es entstehen Abwindkanäle in der Gewitterwolke. In ihnen gelangen die negativ geladenen Graupelteilchen zunächst in den unteren Teil der Wolke. Der nun negativ geladene untere Teil der Wolke bewirkt nun durch Influenz, dass sich der unter der Wolke befindliche Erdboden positiv auflädt. So kommt es zu der klassischen Ladungsverteilung in einer Gewitterwolke. Hinzu kommt, dass im unteren Teil der Gewitterwolke die Graupelteilchen wieder schmelzen und sich dabei wieder positiv aufladen. Das ist so zu erklären, dass sich beim Anwachsen des Graupelteilchens in der Höhe Lufteinschlüsse bilden, die beim späteren Auftauen den Wassertropfen verlassen und dabei an der Oberfläche befindliche negative Ladung mit sich nehmen. Auf diese Weise wird der unter der Wolke ausfallende Niederschlag elektrisch neutral oder – wie man beobachtet hat – sogar positiv geladen, während die negative Ladung im unteren Teil der Wolke verbleibt.[6]
+
+Weitere nicht-induktive Prozesse sekundärer Natur unterstützen diese Ladungsverteilung, wie zum Beispiel die Tatsache, dass sich bereits die durch Resublimation anwachsenden Graupelteilchen positiv aufladen und diese ihre Ladung bei Kollisionen an leichtere Eiskristalle abgeben, bevor oder während sie in Richtung Erdboden fallen. Der umgekehrte Effekt, also die negative Aufladung von sublimierendem Eis, kommt in den Abwindkanälen zum Tragen.[6]
+
+In der bereits geladenen Gewitterwolke kommen nun noch induktive Ladungstrennungsmechanismen hinzu. Die durch die Anwesenheit der Raumladung dipol-artig vorgeladenen und entsprechend ausgerichteten Niederschlagspartikel können nun in der Luft befindliche Ionen je nach Polarität entweder einfangen oder abstoßen. Entdeckt hat dieses Phänomen der spätere Nobelpreisträger Charles Thomson Rees Wilson im Jahre 1929; es betrifft sowohl gefrorene wie auch flüssige Niederschlagspartikel.
+
+In der Praxis hat man beobachtet, dass die oben dargestellte Ladungsverteilung im Gewitter häufig zutrifft, es aber auch abhängig von der Art des Gewitters (Frontengewitter, Wärmegewitter) und des Reifestadiums starke Abweichungen geben kann, wie zum Beispiel weit in den unteren Teil der Wolke reichende positive Raumladungen, negative Areale am Boden oder positive Wolkenuntergrenze im Spätstadium eines Gewitters.
+Wolken- und Erdblitze
+Spannungen innerhalb einer Gewitterwolke: Wolkenblitz und Erdblitz
+
+Ein Blitz ist ein Potentialausgleich innerhalb der Wolke (Wolkenblitz) oder zwischen dem Erdboden und dem unteren Teil der Wolke (Erdblitz). Für Blitze zwischen der Wolke und der Erde muss der Potentialunterschied (die Spannung) einige 10 Millionen Volt betragen. In Luft kommt es erst zu einer elektrischen Funkenentladung bei einer elektrischen Feldstärke von ca. 3 Millionen Volt pro Meter (der so genannten Durchbruchfeldstärke); dieser Wert sinkt jedoch stark mit zunehmender Luftfeuchtigkeit. Allerdings wurden solche Feldstärken in einer Gewitterwolke noch nie gemessen. Messungen ergeben nur extrem selten Feldstärken von über 200.000 V/m, was deutlich unter dem Wert für den Durchbruch liegt. Daher wird heute davon ausgegangen, dass die Luft zuerst durch Ionisation leitfähig gemacht werden muss, damit es zu einer Blitzentladung kommen kann.
+Entstehung eines Blitzkanals durch Ionisation: Leitblitz, Fangentladung und Hauptblitz
+
+Einige Forscher, als erster Wilson im Jahre 1925, gehen davon aus, dass durch kosmische Strahlung angeregte Elektronen den Anfang einer Blitzentstehung bilden. Trifft ein solches Elektron auf ein Luftmolekül einer Gewitterwolke, so werden weitere hochenergetische Elektronen freigesetzt. Es kommt zu einer Kettenreaktion, in deren Folge eine Elektronenlawine entsteht (Runaway-Elektronen genannt, der genaue Mechanismus findet sich im Artikel Runaway-Breakdown erklärt).
+
+Einer Blitzentladung geht eine Serie von Vorentladungen voraus, die gegen die Erdoberfläche gerichtet sind. Dabei wird ein Blitzkanal (Leitblitz) geschaffen, d. h. ein elektrisch leitender Kanal wird durch Stoßionisation der Luftmoleküle durch die Runaway-Elektronen gebildet. Der ionisierte Blitzkanal baut sich stufenweise auf (daher engl. stepped leader), bis er zwischen Erdoberfläche und Wolke hergestellt ist. Die Vorentladungen sind zwar zum Erdboden hin gerichtet, variieren aber innerhalb weniger Meter leicht ihre Richtung und können sich stellenweise aufspalten. Dadurch kommen die Zick-Zack-Form und die Verästelungen des Blitzes zustande. Der Leitblitz emittiert – wie neue Forschungen zeigen – auch Röntgenstrahlung mit einer Energie von 250.000 Elektronenvolt (siehe hierzu die Literaturhinweise). Forscher der Universität Florida haben 2004 nachgewiesen, dass die gemessenen Ausbrüche von Röntgenstrahlen zusammen mit der Bildung der einzelnen Stufen des Leitblitzes auftreten. Dabei nimmt die Intensität der Strahlung mit der Anzahl der Stufen zu, je länger also der Blitzkanal wird. Während der Hauptentladungen wurden keine Röntgenstrahlen gemessen. Noch ist nicht bekannt, wodurch die Elektronen im Leitblitz so stark beschleunigt werden. Der Vorgang des Runaway-Breakdown allein reicht für die gemessene Strahlung nicht aus (siehe dazu auch in den Weblinks).
+
+Kurz bevor die Vorentladungen den Erdboden erreichen, gehen vom Boden eine oder mehrere Fangentladungen aus, welche bläulich und sehr lichtschwach sind. Eine Fangentladung tritt meistens bei spitzen Gegenständen (wie Bäumen, Masten oder Kirchtürmen) aus, welche sich in ihrer Höhe von der Umgebung abheben. Meist – aber nicht immer – trifft eine der Fangentladungen mit den Vorentladungen zusammen und bildet einen geschlossenen Blitzkanal zwischen Wolke und Erdboden. Der Blitzkanal weist maximal 12 mm im Durchmesser auf. Durch diesen Kanal erfolgt dann die Hauptentladung, welche sehr hell ist und als eigentlicher Blitz wahrgenommen wird. Das Leuchten des Blitzes wird durch die Bildung von Plasma verursacht.
+Dauer, Stromstärke und Polarität von Blitzen
+Blitz über Algier (Algerien)
+
+Im Durchschnitt bilden vier bis fünf Hauptentladungen einen Blitz. Die Vorentladungen benötigen zusammengenommen etwa 0,01 Sekunden, die Hauptentladung dauert nur 30 µs (0,00003 s). Nach einer Erholungspause zwischen 0,03 s und 0,05 s erfolgt eine neue Entladung. Es wurden schon bis zu 42 aufeinander folgende Entladungen beobachtet. Dadurch kommt das Flackern eines Blitzes zustande.
+
+Die Stromstärke einer Hauptentladung beträgt im Durchschnitt etwa 20.000 Ampere.
+
+Meistens fließt die negative Ladung von der Wolkenunterseite zum Boden. Man spricht vom Negativblitz. In seltenen Fällen wird positive Ladung der Erdoberfläche zugeführt. Man spricht dann von einem Positivblitz. Meistens handelt es sich hierbei um eine besonders intensive Entladung, deren Hauptentladung auch deutlich länger anhält als beim Negativblitz. Der Positivblitz besteht in aller Regel auch nur aus einer Hauptentladung. Die Stromstärke einer Hauptentladung bei Positivblitzen wird mit bis zu 300.000 Ampere angegeben. Sie sind daher weitaus gefährlicher als Negativblitze, machen allerdings nur etwa 5 % aller Erdblitze aus. Positivblitze entstammen oft dem oberen, positiv geladenen Teil der Gewitterwolke oder dem Wolkenschirm. Sie können auch aus der Wolke austreten und durch den wolkenfreien Raum ihren Weg zu einem Einschlagsziel am Boden nehmen. Die Einschlagstelle kann dabei durchaus einige Kilometer von der Gewitterzelle entfernt liegen. Positivblitze treten auch in den rückwärtigen, stratiformen Bereichen des Gewitters sowie in deren Auflösungsphase auf. Außerdem haben Wintergewitter, in denen der Niederschlag in gefrorener Form fällt, einen hohen Positivblitzanteil.[7]
+
+Die Anstiegsgeschwindigkeit eines Blitzstroms beträgt durchschnittlich 7000 Ampere pro Mikrosekunde. Demzufolge steigt auch die Stärke des dazugehörigen Magnetfelds entsprechend an. Dadurch ist ein Blitz in der Lage, selbst in mehreren Kilometern Entfernung erhebliche elektrische Spannungen zu induzieren.
+
+Anschließend zum Hauptblitz kann durch den ionisierten Blitzkanal ein Ladungsausgleich erfolgen, der 10 bis einige 100 ms anhält. Dabei fließt ein annähernd konstanter Strom von 10 bis 1000 A. Dieser Langzeitstrom tritt häufig nach positiven Blitzen auf und wird auch als „Stromschwanz“ bezeichnet.
+Länge eines Blitzes
+
+Die durchschnittliche Länge eines Erdblitzes (Negativblitz) beträgt in mittleren Breiten 1 bis 2 km, in den Tropen aufgrund der höheren Luftfeuchtigkeit 2 bis 3 km. Positivblitze reichen nicht selten von den oberen Regionen der Gewitterwolke bis zum Erdboden und kommen daher auf Längen von deutlich über 10 km. Ein Wolkenblitz ist ca. 5 bis 7 Kilometer lang.
+Entstehung des Donners
+? Hauptartikel: Donner
+
+Im Blitzkanal wird die Luft schlagartig auf bis zu 30.000 °C erhitzt. Das den Blitzkanal schlauchförmig umhüllende Magnetfeld verhindert dabei die Ausdehnung der ionisierten und damit magnetisch beeinflussbaren Luftmoleküle. Die Folge ist ein extrem hoher Druck. Mit dem Ende des Leitblitzes und damit des Stroms bricht auch das Magnetfeld zusammen und die heiße Luft dehnt sich explosionsartig aus, wodurch der Knall des Donners hervorgerufen wird. Da der Schall im Gegensatz zum Licht (ca. 300.000 km/s) nur eine Geschwindigkeit von 332 m/s (bei 0 °C) aufweist, kann man aus der Zeit zwischen dem Blitz und dem Donner die Entfernung des Blitzes berechnen (drei Sekunden entsprechen recht genau einem Kilometer). Das Grollen des Donners kommt durch Echo-Effekte, durch unterschiedliche Distanzen zum Blitzkanal und durch Dispersion (Abhängigkeit der Schallausbreitung von der Wellenlänge) zustande. Der Blitz selbst erreicht etwa ein Zehntel bis ein Drittel der Lichtgeschwindigkeit, wobei die für das Auge nicht wahrnehmbare Vorentladung (Leitblitz) nur mit einem Tausendstel der Lichtgeschwindigkeit verläuft, also mit 300 Kilometer pro Sekunde. Blitzentladungen innerhalb der Wolke werden gewöhnlich von einem länger anhaltenden und weniger scharf polternden Geräusch begleitet. Dies hängt zum einen mit der gewöhnlich größeren Distanz zusammen, ist aber vor allem auf die verschiedene Orientierung und Struktur von Erdblitz und Wolkenblitz zurückzuführen.
+Spannungskegel
+Fulgurit
+
+An der Stelle, wo der Blitz in den Boden geht (oder aus ihm heraus) bildet sich ein starkes Spannungsfeld (hohes Potential), das von der Stelle des Einschlags nach außen hin kreisförmig abnimmt und sich in das Erdreich kegelförmig spitz fortsetzt, daher der Name. Fläche, Tiefe und Potential des Kegels sind z. B. abhängig von der Stärke des Blitzes, der Bodenbeschaffenheit und Feuchtigkeit. Im Zentrum des Kegels kann es zu Gesteinsaufschmelzung kommen. Es entsteht dann ein Fulgurit.
+
+Mit „Blitzschlag“ ist nicht nur der direkte Treffer gemeint, sondern auch Schädigungen durch den Spannungskegel. Steht z. B. ein Blitzopfer mit beiden Beinen auf dem Boden, befindet sich jedes Bein auf einem etwas anderen Potential. Die Potentialdifferenz im Körper, die sogenannte Schrittspannung, führt zu Schäden an Organen. Diese sind nicht tödlich, falls die Differenz gering ist, z. B. wenn das Opfer im Moment des Einschlags beide Füße dicht nebeneinander hat und die Spannungsdifferenz minimiert ist. Bei jemandem, der mit Kopf oder Füßen in Richtung Einschlagstelle liegt, ist die Spannungsdifferenz u.U. aber sehr groß. Dann kann auch ein Einschlag, der weiter entfernt ist, zu schweren Schäden führen. Aus diesem Grund sind vierbeinige Tiere (Kühe auf der Weide) besonders gefährdet. Stärke und Form des Spannungskegels sind in der Regel nicht vorhersehbar.
+Erscheinungsformen
+Linienblitz in Ferenci, Istrien/Kroatien 2003
+Flächenblitz in Norman, Oklahoma 1978
+Wetterleuchten auf Formentera 2004
+Roter Kobold
+Linienblitz
+
+Ein Linienblitz hat keine Verzweigungen. Er sucht sich jedoch nicht immer den direkten Weg zum Erdboden, sondern kann auch Bögen beschreiben, die aus einer bestimmten Perspektive als Knoten und kreisförmige Verschlingungen gesehen werden können. Der Linienblitz ist häufiger zu sehen als andere Blitze.
+Flächenblitz
+
+Ein Flächenblitz zeigt zahlreiche Verzweigungen vom Hauptblitzkanal.
+Perlschnurblitz
+
+Der Perlschnurblitz ist eine Blitzart, bei der der Blitz nicht durch einen zusammenhängenden Blitzkanal gekennzeichnet ist, sondern in einzelne, meistens nur wenige Meter lange Segmente zerfällt. Diese einzelnen Segmente leuchten heller und meistens auch etwas länger als ein „normaler“ Linienblitz. Von weitem betrachtet sehen die kurzen, leuchtenden Segmente des Blitzes wie eine Perlenschnur aus.
+
+Perlschnurblitze sind wie Kugelblitze sehr seltene Blitzphänomene. In Laboren ist es bereits gelungen, Perlschnurblitze künstlich zu erzeugen. Dennoch hat man ihre Bildung noch nicht restlos verstanden: Als Ursache könnten Instabilitäten im Plasma des Blitzkanals in Frage kommen.
+Kugelblitz
+
+Kugelblitze können angeblich durch Mauern und Ritzen dringen, Treppen steigen oder sich im Sturm langsam gegen die Windrichtung bewegen. Dafür gibt keine physikalische Grundlage.
+Wetterleuchten
+
+Unter Wetterleuchten (mittelhochdeutsch weterleichen zu „weter“ (Wetter) + „leichen“ (tanzen, hüpfen), nicht verwandt mit leuchten, wie oft angenommen) wird meistens der Widerschein von Blitzen verstanden, wenn man die Blitze selbst nicht sieht. Es kann bei einem weit entfernten Gewitter oder bei Blitzen, die sich innerhalb von Wolken entladen, entstehen. Den Donner hört man wegen der großen Distanzen meistens nicht oder nur schwach.
+Elmsfeuer
+? Hauptartikel: Elmsfeuer
+
+Ein Elmsfeuer ist eine Funkenentladung gegen die umgebende Luft. Technisch betrachtet ist sie eine Vorentladung aufgrund großer Feldstärke. Sie tritt meistens an hohen Gegenständen wie Antennenmasten, Schiffsmasten, Flugzeugen (beim Fliegen in Gewitternähe oder einer mit Aschepartikeln durchtränkten Luftschicht) oder Gipfelkreuzen auf. Elmsfeuer können eine Blitzentladung einleiten. Bergsteiger berichten oft, dass diese sog. Spitzenentladung auch am Pickel auftritt, den man daher bei Gewittern nicht in der Hand tragen soll.
+Positiver Blitz
+
+Ein positiver Blitz ist ein Blitz, bei dem die Blitzentladung aus dem oberen, positiv geladenen Teil der Wolke zum Boden erfolgt. Diese Blitze sind um einiges stärker als negative Blitze und können kilometerweit vom eigentlichen Gewitter entfernt einschlagen. Zusätzlich leuchten sie auch länger als ein negativer Blitz und können einen weit größeren Schaden anrichten. Der Donner ist durch den länger anhaltenden Potentialausgleich lauter, einem Knall ähnlich und wird von einem niederfrequenten Poltern begleitet.
+Elfen und Kobolde
+? Hauptartikel: Kobold (Wetterphänomen)
+
+Bei den Elfen (engl. elves) handelt es sich um Blitzentladungen, die die Gase in der Ionosphäre erleuchten. Sie treten über großen Gewitterwolken als rötlicher Ring in etwa 90 km Höhe auf und werden vermutlich durch Wolkenblitze induziert.
+
+Kobolde (engl. Sprites) tauchen in der Mesosphäre in einer Höhe von etwa 70 km ebenfalls über gewaltigen Gewittern auf. Sie breiten sich in Millisekunden nach oben und unten aus, erscheinen meistens rötlich und haben unterschiedliche Formen, von Pilzgebilden bis hin zu Lattenzäunen. Es gibt Vermutungen, dass sie der obere Teil eines positiven Blitzes sind.
+Häufigkeit von Blitzen
+Blitzereignis und Blitzdichte
+
+Eine Entladung wird als Stroke (engl. für ‚(Blitz-)Schlag‘) bezeichnet. Zu statistischen Zwecken fasst man mehrere Strokes (Teilblitze), die innerhalb einer oder 1,5 Sekunden am gleichen Ort gemessen werden, zu einem Blitzereignis, engl Flash (‚Blitz‘) zusammen. Nach der Datenbank CATS (Computer Aided Thunderstorm Surveillance System) der EUCLID ist ein Verhältnis von 100 Mio. Strokes zu 65 Mio. Flashes festzustellen, also etwa 3:2.[8][9]
+
+Um die Blitzhäufigkeit (Anzahl der Blitzereignisse) vergleichbar zu erfassen und die Blitzgefahr abzuschätzen, ermittelt man die Blitzdichte Ng in Ereignissen (Flashes) je Quadratkilometer. Seit Entwicklung der elektromagnetischen Blitzortung ist die Blitzdichte heute exakt messbar, früher wurde sie aus dem keraunischen Pegel der Gewitterhäufigkeit abgeschätzt. Als gemitteltes Datum ist dieser Wert von der zugrunde gelegten Flächeneinheit (im Allgemeinen 1 km x 1 km) abhängig, für die Abschätzung am Einzelobjekt legt man die lokale Blitzdichte (etwa EN 62305-2 Blitzschutz – Risiko-Management) zugrunde.[10]
+Ortung
+
+Blitze rufen starke elektromagnetische Störungen im Funkverkehr hervor (Atmosphärische Störungen). Auf unbenutzten Radiofrequenzen der Lang- und Mittelwelle machen sich Blitze durch deutliches Knacken oder Kratzen bemerkbar. Dieses Phänomen wird zur automatischen Ortung von Blitzeinschlägen genutzt. Dazu werden nach der heute üblichen Technik der Blitzortungssysteme mittels mindestens zweier Sensoren die Laufzeitunterschiede ermessen, und daraus die Position bestimmt (Time of arrival-Systeme, TOA, ähnlich der Funktion der GPS-Peilung) – die Technik der magnetischen Richtungspeilung hat sich nicht durchgesetzt.[11] Die Ergebnisse sind auf diversen Internetseiten als Blitzkarten erhältlich, wie sie zum Beispiel BLIDS von der Siemens AG oder das österreichische System ALDIS und andere Mitglieder von EUCLID (European Cooperation for Lightning Detection), oder NALDN (North American Lightning Detection Network) anbieten.
+
+Eine andere Methode sind die satellitengestützten globalen Blitzortungen, die auf optischen oder elektromagnetischen Messmethoden beruhen: Zu den wichtigen Blitzortungssatelliten und -systemen gehören: MicroLab-1 Optical Transient Detector (OTD); TRMM Lightning Imaging Sensor (LIS); GOES-R Geostationary Lightning Mapper (GLM), Lightning Mapper Sensor (LMS); auch die dritte Generation Meteosat ab 2015 soll ein Ortungssystem tragen.
+
+Daneben ist auch Ortung über die Schumann-Resonanz möglich.[12]
+Entfernungsabschätzung über das Zeitintervall zum Donner
+
+Um bei einem Gewitter ohne Messmittel eine ungefähre Entfernungsangabe zu erhalten, kann die Zeit zwischen Blitz und Donner gemessen (gezählt) werden. Dabei wird die Laufzeit des Lichtes als geringfügig vernachlässigt. Diese Zeit in Sekunden, multipliziert mit der Schallgeschwindigkeit (343 m/s), ergibt die Entfernung in Metern. Annäherungsweise kann auch die Zeit in Sekunden geteilt durch 3 für die ungefähre Entfernung in Kilometern gerechnet werden. Zur Bestimmung des Donnerzeitpunktes ist dabei stets das erste wahrnehmbare Schallsignal zu verwenden, welches vom Blitz auf kürzestem Weg zum Beobachter gelangt, und somit die Entfernung zu diesem Abschnitt des Blitzkanals relativ genau wiedergibt. Je nach Art des Blitzes ist dieser Blitzkanalabschnitt im Allgemeinen entweder der am nächsten zum Beobachter liegende Teil eines Wolkenblitzes, oder der etwas oberhalb des Bodens liegende eines Bodenblitzes. Die Schallsignale von weiter entfernten Abschnitten des Blitzkanals bilden zusammen mit durch Reflexionen und Beugungen verzögerten Bestandteilen das Donnergrollen, welches wesentlich lauter als das Primärereignis sein kann.
+Blitzstatistik
+Globale Verteilung der Blitzhäufigkeit in jährlichen Einschlägen/km²
+
+Weltweit[13] gibt es zu jedem beliebigen Zeitpunkt 2000 bis 3000 Gewitter, was auf der gesamten Erde täglich 10 bis 30 Millionen Blitze ergibt (andere Schätzungen gehen nur von 4 Millionen aus). Das sind über 100 Blitze in jeder Sekunde. Doch nur 10 % aller Blitze schlagen in den Boden ein.
+
+In der Bundesrepublik Deutschland gab es 2003 über 2 Millionen Blitze. In Österreich schwankt die seit 1992 registrierte Zahl zwischen 100.000 und 222.000, davon allerdings 70 % in der südöstlichen Landeshälfte und nur 10 % im alpinen Tirol. Die Regel, dass im Gebirge mehr Blitze aufträten, hat sich an Messdaten nicht bestätigt.
+
+Die allgemeine Blitzhäufigkeit in Deutschland liegt zwischen 0,5 und zehn Einschlägen pro Quadratkilometer und Jahr. Der Schnitt Bayerns liegt bei weniger als einem Blitz pro km² jährlich, in Österreich und Norditalien bei 1–2, in Slowenien bei 3. Fast überall gibt es kleinere Bereiche, in denen die Blitzhäufigkeit zwei- bis dreimal höher als in der Umgebung ist und umgekehrt. Vor allem aber hängt die Blitzhäufigkeit sehr stark von der Jahreszeit ab. Im Juli und August kommt es zu vielen Blitzschlägen, im Januar gibt es fast keine. Zudem gibt es in Großstädten mehr Blitze, was vermutlich mit der Luftverschmutzung und der Lufttemperatur zusammen hängt. Am häufigsten blitzt es in Deutschland im Schwarzwald, dicht gefolgt von der Rhein-Main-Gegend und dem Rhein-Neckar-Dreieck, in Österreich und Italien an den Südlichen Kalkalpen.
+
+Forschungen der NASA (z. B. LIS) haben ergeben, dass die weltweit größte Blitzhäufigkeit im Kongobecken, speziell im Lee, d. h. westlich der Zentralafrikanischen Schwelle, zu finden ist. Weitere Zentren sind der Norden Kolumbiens bis hin zum Maracaibo-See in Venezuela, der äußerste Norden der von den Hochgebirgen umgebenen Indus-Ebene in Pakistan, die Straße von Malakka einschließlich des südlichen Teils der Malaiischen Halbinsel, Paraguay und Nordargentinien etwa entlang des Río Paraná sowie die Südstaaten der USA (namentlich Florida) und die vorgelagerten Karibikinseln.
+
+Während es im Kongobecken mit geringen Verschiebungen ganzjährig blitzt, fällt in den anderen genannten Gebieten das Blitzmaximum signifikant mit dem Sommer der jeweiligen Hemisphäre oder mit dem Auftreten des Monsuns zusammen. Der Grund, dass speziell in diesen Gebieten so häufig intensive Gewitter auftreten, ist fast immer orografischer Natur, d. h. die vorherrschende Windrichtung zwingt die Luftmassen zum Aufsteigen an Gebirgsketten und das ist der Auslöser für die Entstehung gewittriger Niederschläge.
+Deutschland
+Jahr 	Anzahl[14] 	Pro km² 	Stärkster Monat 	Anzahl 	Anteil 	Stärkste Woche 	Anzahl 	Stärkster Tag 	Anzahl
+2004 	1.752.455 	4,9 	Juli 	747.330 	43 % 	KW 30 	326.246 	23. Juli 2004 	125.696
+2005 	1.927.941 	5,4 	Juli 	869.882 	45 % 	KW 30 	475.230 	29. Juli 2005 	277.768
+2006 	2.484.791 	7,0 	Juli 	1.029.761 	41 % 	KW 25 	360.410 	25. Juni 2006 	159.254
+2007 	2.662.409 	7,5 	Juni 	1.023.778 	38 % 	KW 21 	452.160 	21. Juni 2007 	162.139
+2008 	2.153.171 	6,0 	Juli 	722.830 	34 % 	KW 31 	274.444 	25. Juni 2008 	106.923
+2009 	2.354.567 	6,6 	Juli 	1.047.679 	44 % 	KW 27 	595.767 	3. Juli 2009 	191.636
+2010 	1.349.049 	3,8 	Juli 	686.337 	51 % 	KW 28 	389.672 	17. Juli 2010 	143.748
+Österreich
+Blitze/km² über der Zeit für Österreich mit Bundesländern
+
+
+Datei:Blitze/km² über der Zeit für Österreich mit Bundesländern
+Tabelle: Anzahl der Blitze (flashes) je Jahr; in Klammern die Blitzdichte in Ereignissen je km² Jahr
+
+	Burgenland
+
+	Kärnten
+
+	Nieder
+österreich
+	Ober
+österreich
+	Salzburg
+
+	Steiermark
+
+	Tirol
+
+	Vorarlberg
+
+	Wien
+
+	Gesamt
+
+1992 	4071 (1,0) 	13265 (1,4) 	19094 (1,0) 	9304 (0,8) 	12878 (1,8) 	29013 (1,8) 	14771 (1,2) 	2328 (0,9) 	194 (0,5) 	104918 (1,3)
+1993 	7979 (2,0) 	31293 (3,3) 	40701 (2,1) 	28291 (2,4) 	22614 (3,2) 	59656 (3,6) 	28155 (2,2) 	3384 (1,3) 	296 (0,7) 	222369 (2,7)
+1994 	5233 (1,3) 	27712 (2,9) 	22766 (1,2) 	12395 (1,0) 	15343 (2,1) 	41881 (2,6) 	25715 (2,0) 	3190 (1,2) 	244 (0,6) 	154479 (1,8)
+1995 	5560 (1,4) 	24294 (2,5) 	23892 (1,2) 	10467 (0,9) 	12295 (1,7) 	34423 (2,1) 	17992 (1,4) 	2120 (0,8) 	426 (1,0) 	131469 (1,6)
+1996 	6014 (1,5) 	14756 (1,5) 	21262 (1,1) 	14153 (1,2) 	11853 (1,7) 	32690 (2,0) 	16665 (1,3) 	1835 (0,7) 	373 (0,9) 	119601 (1,4)
+1997 	5164 (1,3) 	23893 (2,5) 	20043 (1,0) 	12299 (1,0) 	10380 (1,5) 	39761 (2,4) 	10793 (0,9) 	962 (0,4) 	241 (0,6) 	123536 (1,5)
+1998 	10521 (2,7) 	30567 (3,2) 	28340 (1,5) 	16032 (1,3) 	15110 (2,1) 	55805 (3,4) 	21770 (1,7) 	1349 (0,5) 	664 (1,6) 	180158 (2,1)
+1999 	3770 (1,0) 	17771 (1,9) 	20592 (1,1) 	10261 (0,9) 	7786 (1,1) 	28270 (1,7) 	10252 (0,8) 	1224 (0,5) 	256 (0,6) 	100182 (1,2)
+2000 	7849 (2,0) 	29079 (3,0) 	34074 (1,8) 	21522 (1,8) 	18993 (2,7) 	54673 (3,3) 	23286 (1,8) 	3745 (1,4) 	707 (1,7) 	193928 (2,3)
+2001 	5973 (1,5) 	17263 (1,8) 	24456 (1,3) 	16986 (1,4) 	10055 (1,4) 	29022 (1,8) 	14538 (1,1) 	1897 (0,7) 	368 (0,9) 	120558 (1,4)
+2002 	8642 (2,2) 	21588 (2,3) 	39506 (2,1) 	27328 (2,3) 	14148 (2,0) 	41864 (2,6) 	24241 (1,9) 	3874 (1,5) 	613 (1,5) 	181804 (2,2)
+2003 	7620 (1,9) 	41241 (4,3) 	32510 (1,7) 	23636 (2,0) 	20555 (2,9) 	53095 (3,2) 	28483 (2,3) 	3419 (1,3) 	1196 (2,9) 	211755 (2,5)
+2004 	4834 (1,2) 	17941 (1,9) 	20249 (1,1) 	17600 (1,5) 	9813 (1,4) 	36050 (2,2) 	12596 (1,0) 	2942 (1,1) 	476 (1,1) 	122501 (1,5)
+2005 	3996 (1,0) 	18923 (2,0) 	36400 (1,9) 	31584 (2,6) 	12289 (1,7) 	58585 (3,6) 	14318 (1,1) 	1577 (0,6) 	317 (0,8) 	177989 (2,1)
+2006 	8305 (2,1) 	43715 (4,6) 	50672 (2,6) 	38662 (3,2) 	28975 (4,1) 	72777 (4,4) 	37073 (2,9) 	3300 (1,3) 	501 (1,2) 	283980 (3,4)
+2007 	8143 (2,1) 	33531 (3,5) 	57540 (3,0) 	38414 (3,2) 	26225 (3,7) 	54401 (3,3) 	26024 (2,1) 	2175 (0,8) 	1142 (2,8) 	247595 (3,0)
+2008 	14828 (3,7) 	37521 (3,9) 	49778 (2,6) 	26821 (2,2) 	20109 (2,8) 	66386 (4,1) 	33938 (2,7) 	3475 (1,3) 	1235 (3,0) 	254091 (3,0)
+2009 	10.850 (2,7) 	45.675 (4,8) 	54.537 (2,8) 	29.099 (2,4) 	21.049 (2,9) 	92.255 (5,6) 	24.289 (1,9) 	4.298 (1,7) 	792 (1,9) 	282.844 (3,4)
+2010 	14.584 (3,7) 	20.539 (2,1) 	44.526 (2,3) 	30.468 (2,5) 	11.542 (1,6) 	53.071 (3,2) 	13.583 (1,1) 	2.119 (0,8) 	1.205 (2,9) 	191.637 (2,3)
+2011 	5.855 (1,5) 	18.220 (1,9) 	22.182 (1,2) 	16.821 (1,4) 	7.276 (1,0) 	34.245 (2,1) 	12.784 (1,0) 	1.890 (0,7) 	274 (0,7) 	119.547 (1,4)
+Ø (1992–2011) 	7490 (1,9) 	26.439 (2,8) 	33.156 (1,7) 	21.607 (1,8) 	15.464 (2,2) 	48.396 (3,0) 	20.563 (1,6) 	2.555 (1,0) 	576 (1,4) 	176.246 (2,1)
+
+    Farb-Legende:[15] ? 5-<6 ? 4–<5 ? 3–<4 ? 2–<3 ? 1–<2 ? <1
+
+Quelle: ALDIS[16] (Jahresdurchschnitte und Flächenmittelwerte berechnet)[17] Der Anbieter ergänzt seine Veröffentlichungen um den folgenden Hinweis:
+
+    Bei den dargestellten Blitzhäufigkeiten handelt es sich um sogenannte nicht homogenisierte Daten. Das bedeutet, dass ein Teil des offensichtlichen Anstieges der Blitzanzahlen in den letzten Jahren auf technische Verbesserungen bei der Blitzortung zurückzuführen ist und nicht unbedingt klimatische Ursachen hat. Die Homogenisierung der ALDIS Blitzdatenreihe ist eine komplexe Fragestellung und soll im Rahmen eines Kooperationsprojektes mit den Experten der ZAMG erfolgen.[16]
+
+Schweiz
+Jahr 	Anzahl 	pro km² 	stärkster Monat 	Anzahl 	Anteil
+2004 	357.787 	8,7 	Juli 	145.504 	41 %
+2005 	354.828 	8,6 	Juni 	125.093 	35 %
+2006 	485.929 	11,8 	Juli 	241.769 	50 %
+2007 	453.090 	11,0 	Juni 	181.078 	40 %
+2008 	348.106 	8,4 	Juli 	148.507 	43 %
+2009 	460.164 	11,1 	Juli 	212.191 	46 %
+
+    Quelle: BLIDS (Flächenmittelwerte und Prozentsätze berechnet)
+
+Blitzschäden und Schutzmaßnahmen
+Blitzeinschlag in einen Maibaum, wobei dessen Fundament teilweise weggesprengt wurde und weitere Sekundärschäden entstanden
+Blitzschaden an einer Türzarge
+Blitzschaden an einem Baum
+
+Blitze richten in Deutschland jährlich Schäden in Höhe von mehreren Millionen Euro an. Durch Blitzeinschlag können Haus- und Waldbrände entstehen, zunehmend werden jedoch elektrische Geräte beschädigt. Zum Schutz werden daher viele Gebäude mit einem Blitzschutzsystem versehen. Von Versicherungsgesellschaften wird der Blitzschutz privater Gebäude jedoch nicht ausdrücklich verlangt.
+
+Schäden entstehen jedoch nicht nur durch direkten Einschlag, sondern auch durch Potentialunterschiede elektrischer Anlagen oder des Bodens, sowie durch elektromagnetische Induktion in längeren Kabelstrecken. Überspannungsschutzsteckdosen für elektronische Geräte wie Computer sind daher recht unzureichende Glieder einer Kette von Maßnahmen des Blitzschutzes. Werden sie allein eingesetzt, schützen sie insbesondere dann kaum, wenn an den Geräten weitere Leitungen angeschlossen sind (Telefonleitung, Antennenanlage, Kabelfernsehen). Wirksamer ist, alle Leitungen (Strom, Gas, Wasser, Telefon, Antenne, Kabelfernsehen) bei Gebäudeeintritt auf eine gemeinsame Potentialausgleichsschiene zu führen. Zusätzlich sollten die Strom- und Signalleitungen mit Überspannungsableitern (Grob- und Feinschutz) versehen sein. Bei Antennenanlagen gilt weiterhin die alte Regel, den Antennenstecker vor einem Gewitter vom Gerät abzuziehen.
+
+Ein besonders spektakulärer Blitzschaden ereignete sich 1970 am Langwellensender Orlunda in Schweden. Damals zerstörte ein Blitzschlag den Fußpunktisolator des 250 Meter hohen Zentralmasts des Langwellensenders und brachte diesen somit zum Einsturz.
+Wirkung auf Menschen
+
+Während eines Gewitters ist man im Freien – vor allem auf erhöhten Standpunkten – der Gefahr des Blitzschlags ausgesetzt. Die Wirkung eines direkten Blitzschlages entspricht dem eines Stromunfalls mit den für Hochspannungsunfälle typischen Verletzungen wie Verbrennungen. Dabei können sich Hautverletzungen in Form einer Lichtenberg-Figur ausbilden.
+
+Weiter kann es durch den lauten Knall, welcher in einiger Entfernung als Donner wahrgenommen wird, zu Gehörschäden wie einem Hörsturz oder Tinnitus kommen. Je nach Situation können weitere indirekte Wirkungen bestehen, beispielsweise durch das Erschrecken oder die Blendwirkung, welche zu Folgeunfällen führen können. Personen, die sich in der Nähe eines Blitzschlags befunden haben, haben in der Folgezeit zum Teil physiologische oder psychische Störungen oder Veränderungen,[18][19] die sich sogar dauerhaft in einer Persönlichkeitsveränderung auswirken können.[20]
+
+Tödlicher Blitzschlag ist in Deutschland selten geworden; die durchschnittlich drei bis sieben Todesopfer pro Jahr ließen sich durch weitere Vorsichtsmaßnahmen noch weiter reduzieren.[21] Im 19. Jahrhundert wurden in Deutschland noch an die 300 Personen jährlich vom Blitz getötet, da wesentlich mehr Menschen auf freiem Feld arbeiteten und sich nicht in geschützte Objekte wie Autos, Traktoren oder Mähdrescher zurückziehen konnten.
+Verhalten bei Gewittern
+
+Um nicht vom Blitz getroffen oder durch einen nahen Einschlag verletzt zu werden, müssen Sicherheitsvorkehrungen getroffen werden, von denen die wichtigsten hier vorgestellt werden. Nach der 30/30-Regel geht man davon aus, dass die Gefahr, von einem Blitz getroffen zu werden, hoch ist, sobald bei Heraufziehen eines Gewitters zwischen Blitz und Donner 30 Sekunden liegen bis zu dem Zeitpunkt, wo 30 Minuten nach dem letzten Blitz oder Donner vergangen sind[22]. Innerhalb dieser Zeit soll ein sicherer Ort aufgesucht und nicht wieder verlassen werden.
+
+    Schutz in Gebäuden oder Fahrzeugen suchen. Fahrzeuge mit geschlossener Metallkarosserie und Gebäude mit einem Blitzschutzsystem oder aus Stahlbeton wirken wie ein Faradayscher Käfig. Der metallische Käfig muss allerdings entsprechend dimensioniert sein, um die hohen Impulsströme ohne mechanische Verformungen aufnehmen zu können. Gelegentlich wird gemeldet, dass vom Blitz getroffene Autos Feuer gefangen haben[23]. Einen guten Schutzraum stellen außerdem die Bereiche am Boden unter Hochspannungsleitungen dar, welche über metallische Masten verfügen und deren Masten über Erdseile verbunden sind. Durch das Erdseil wird der Blitzstrom auf mehrere geerdete Masten verteilt und damit die Schrittspannung im Bereich des Erdungspunktes reduziert.[24]
+    Gefahr droht weiter durch indirekte Auswirkungen wie die Schallwirkung (Knall), durch die Blendwirkung und den Schreck durch die Überraschung. Dadurch können Folgeunfälle, wie beispielsweise Stürze, ausgelöst werden.
+
+Wenn kein Schutz in Gebäuden oder Fahrzeugen gefunden werden kann, gelten folgende Regeln:
+
+    Offenes Gelände, Hügel und Höhenzüge meiden.
+    Aufenthalt auf oder in Gewässern und Pools vermeiden.
+    Wegen der Schrittspannung Füße zusammenstellen, in die Hocke gehen, Arme am Körper halten, den Kopf einziehen, eine Vertiefung aufsuchen. Nicht auf den Boden legen, sondern den Kontaktbereich zum Boden minimieren.
+    Von allen größeren Objekten, auch Personen, mindestens 3 m Abstand halten (Überschlaggefahr)
+
+Baurecht und Blitzschutz
+? Hauptartikel: Blitzschutz
+Gesetzliche Vorgaben
+
+Bauliche Anlagen, bei denen nach Lage, Bauart oder Nutzung Blitzschlag leicht eintreten oder zu schweren Folgen führen kann, sind mit dauernd wirksamen Blitzschutzanlagen zu versehen. (Deutschland – Auszug aus der Musterbauordnung 2002)
+
+Bauliche Anlagen sind mit Blitzschutzanlagen, die den Erfahrungen der technischen Wissenschaften entsprechen, auszustatten, wenn sie durch ihre Höhe, Flächenausdehnung, Höhenlage oder Bauweise selbst gefährdet oder widmungsgemäß für den Aufenthalt einer größeren Personenzahl bestimmt sind oder wenn sie wegen ihres Verwendungszweckes, ihres Inhaltes oder zur Vermeidung einer Gefährdung der Nachbarschaft eines Blitzschutzes bedürfen. (Österreich – Auszug aus der Bauordnung Wien)
+
+Diese oder ähnliche Vorgaben finden sich in vielen Landesbauordnungen. Der Gesetzgeber schreibt damit für jedes Bauvorhaben eine Einzelfallprüfung vor. Es ist zu prüfen, ob Blitzschlag leicht eintreten (zum Beispiel anhand der Lage und Ausdehnung des Gebäudes) oder zu schweren Folgen (zum Beispiel Personenschaden) führen kann.
+Risikoanalyse – Blitzschutznachweis
+
+Der Gesetzgeber benennt keine technische Regel, nach der diese Prüfung durchgeführt werden soll. Im Prinzip ist daher der Bauherr/Architekt in der Nachweisführung frei, soweit alle im Gesetzestext genannten Einflussgrößen (Lage, Bauart, Nutzung, Folgen) detailliert betrachtet werden.
+
+In der Praxis erweist sich das als gar nicht so einfach, weil in der Regel die erforderlichen Abschätzungen eine entsprechende Erfahrung voraussetzen. Welcher Arbeitsaufwand hinter einer fachgerechten Risikobeurteilung stecken kann, lässt sich anhand der EN 62305 (VDE 0185-305)-11 Teil 2 ablesen. Diese Norm erfüllt vom Umfang die gesetzlichen Mindestanforderungen, die Anwendung ist also baurechtlich zulässig. Andererseits ist der Aufwand für die Datenerfassung und Berechnung für viele Bauvorhaben unangemessen hoch. Besonders problematisch ist jedoch, dass in Einzelfällen die Berechnungsergebnisse nicht mit dem geltenden Baurecht in Einklang stehen. Der Gesetzgeber oder die Rechtsprechung haben für bestimmte Gebäudetypen/Nutzergruppen andere Festlegungen getroffen. Weichen die Berechnungsergebnisse der Risikoermittlung von den gesetzlichen Forderungen ab, so sind grundsätzlich die höheren Anforderungen umzusetzen.
+
+Die Risikoermittlung wird immer nur der erste Schritt bei der Planung einer Blitzschutz-Anlage sein, in einem weiteren Schritt sind die baurechtlichen Besonderheiten zu berücksichtigen und anschließend sind die in der Risikoermittlung getroffenen Annahmen (ausgewählte Reduktionsfaktoren, Schadenfaktoren usw.) umzusetzen. Auch für die anschließende Planung des Blitzschutzes einer baulichen Anlage werden in der EN 62305-11 Teil 1 bis 4 weiterführende Aussagen getroffen.
+Mythologie
+
+In der Bibel werden Blitze (und Donner) zum Beispiel für den Zorn Gottes verwendet (Ex 9,24 EU; 2 Sam 22,15 EU; Hi 37 EU; Ps 18 EU), für das Strafgericht Gottes (Sach 9,14 EU), für Gottes Offenbarung an die Menschen (Ex 20,18 EU; Offb 4,5 EU), für das Kommen des Menschensohnes (Mt 24,27 EU; Lk 17,24 EU), für das Fallen des Satans (Lk 10,18 EU), und für das Wesen der Engel und Auferstandenen (Hes 1,14 EU; Dan 10,6 EU; Mt 28,3 EU).
+
+In der griechischen Antike waren die Blitze dem Zeus (wie bei den Römern dem Jupiter) zugeordnet, der sie schleuderte. Ein Blitzbündel in seiner Hand findet sich in literarischen Quellen (bspw. bei Homer) und auf Darstellungen seither.
+
+Die Etrusker sahen in Blitzen Orakel, durch die sie die Zukunft und die Welt zu deuten versuchten. Die so genannten libri fungurales erläuterten die Deutung der Blitze. Schon zu dieser Zeit (zwischen 800 und 600 v. Chr.) wurden Blitze kategorisiert und beobachtet.
+
+Die Germanen deuteten den Blitz als sichtbares Zeichen dafür, dass Thor (Donar) seinen Hammer zur Erde geschleudert hatte.
+
+Bei den baltischen Völkern war es der Gewittergott Perkunas.
+Blitze auf anderen Planeten
+
+Auch auf anderen Planeten unseres Sonnensystems, zum Beispiel auf der Venus oder dem Jupiter, treten Blitze auf. Voraussetzung dafür ist eine dichte Atmosphäre.

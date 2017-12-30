@@ -1,0 +1,12 @@
+﻿Drahtseile bestehen (mit einigen Ausnahmen) aus Litzen. Diese Litzen bestehen ihrerseits aus Drähten. Die Drähte einer Litze sind in einer Richtung umeinander gelegt, sie sind geschlagen, wie der Seiler sagt. Dies kann im Uhrzeigersinn, gleich "rechts" (Z-Schlag) oder gegen den Uhrzeigersinn, gleich "links" (S-Schlag) erfolgen. Die Litzen sind somit rechts- oder linksgängig.
+
+Mehrere Litzen werden dann zu Seilen verarbeitet. Auch hier kann wiederum rechts- oder linksherum geschlagen werden. Dadurch werden ebenfalls die Seile rechts- oder linksgängig. Die Schlagrichtung eines Seiles bezieht sich allerdings ausschließlich auf die Richtung der Litzen.
+
+Durch den Zusatz „Kreuzschlag“ (oder auch „Gegenschlag“) wird angegeben, dass die Außendrähte an der Seiloberfläche etwa in Richtung der Seilachse liegen bzw. die Drähte der Litzen der gegenläufigen Richtung folgen wie die Litzen in den Seilen (die Schlagrichtung der Außenlitzen und der Seildrähte in der Litze im Seil sind gegenläufig).
+
+Neben Kreuzschlagseilen gibt es noch Gleichschlagseile. Hier sind die Litzen in die gleiche Richtung zum Seil geschlagen.[1]
+In den meisten Anwendungen sind Kreuzschlagseile geeigneter als Gleichschlagseile. Bei Kreuzschlagseilen treten äußere Drahtbrüche meistens früher auf als bei Gleichschlagseilen, was einen großen Zugewinn an Sicherheit bedeutet. Denn nur, wenn sich die zunehmende Seilschädigung durch äußere Drahtbrüche darstellt, kann ein Drahtseil rechtzeitig abgelegt werden.
+
+Durch den Zusatz „Gleichschlag“ (oder auch „Langschlag“) wird angegeben, dass die Außendrähte an der Seiloberfläche stark geneigt zur Seilachse liegen bzw. die Drähte der Litzen der gleichen Richtung folgen wie die Litzen in den Seilen (die Schlagrichtung der Außenlitzen und der Seildrähte in der Litze im Seil haben in etwa die gleiche Richtung).
+
+Ein Seil in Gleichschlag rechts ist beispielsweise ein rechtsgeschlagenes Seil, welches seinerseits aus rechtsgeschlagenen Litzen besteht. (im Bild oben als a) gekennzeichnet)

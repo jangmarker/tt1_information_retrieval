@@ -71,4 +71,4 @@ TEST_CASE("two simple documents", "[database]") {
             REQUIRE(result[0].similarity == Approx(0.447213595499958));
         }
     }
-};
+}

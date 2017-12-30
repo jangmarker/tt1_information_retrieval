@@ -16,7 +16,6 @@ std::wstring normalize(const std::wstring& source)
 
 std::wistream& operator>>(std::wistream& stream, Token& token)
 {
-    std::wstring string;
     stream >> token.value;
     token.value = normalize(token.value);
     return stream;
@@ -24,7 +23,7 @@ std::wistream& operator>>(std::wistream& stream, Token& token)
 
 std::wistream& operator>>(std::wistream& stream, TermFrequencies& termFrequencies)
 {
-    while (stream.peek() != WEOF) {
+    while (!stream.eof()) {
         Token token;
         stream >> token;
         termFrequencies[token.value]++;
