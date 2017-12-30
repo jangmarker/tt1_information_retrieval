@@ -7,7 +7,7 @@ std::wstring normalize(const std::wstring& source)
     std::wstring target;
     target.reserve(source.length());
     for (std::wstring::value_type c : source) {
-        if (isalnum(c, std::locale()))
+        if (std::isalpha(c, std::locale()))
             target += tolower(c, std::locale());
         // TODO improve number of recognized word patters, like abc-def or abc's
     }
@@ -26,7 +26,8 @@ std::wistream& operator>>(std::wistream& stream, TermFrequencies& termFrequencie
     while (!stream.eof()) {
         Token token;
         stream >> token;
-        termFrequencies[token.value]++;
+        if (!token.value.empty())
+            termFrequencies[token.value]++;
     }
 
     return stream;
