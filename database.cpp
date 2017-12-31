@@ -1,4 +1,5 @@
 #include "database.h"
+#include "document.h"
 
 #include <cmath>
 
@@ -32,20 +33,6 @@ namespace
 
         return topSum / (query.euclideanNorm * doc.euclideanNorm);
     }
-}
-
-Query::Query(std::initializer_list<std::wstring> terms)
-{
-    for (auto& term : terms) {
-        termFrequencies[term]++;
-    }
-}
-
-SearchResult::SearchResult(const DocumentId& documentId, double similarity)
-    : documentId(documentId)
-    , similarity(similarity)
-{
-
 }
 
 void Database::addDocument(Document&& document)

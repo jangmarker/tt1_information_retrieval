@@ -4,7 +4,6 @@
 
 #include <fstream>
 #include <locale>
-#include <codecvt>
 
 std::vector<Document> FileAccess::documentsFromDirectory(const std::experimental::filesystem::path& dir)
 {

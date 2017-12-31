@@ -2,6 +2,7 @@
 #define TT1_INFORMATION_RETRIEVAL_TOKENIZER_H
 
 #include "database.h"
+#include "document.h"
 
 #include <istream>
 #include <locale>

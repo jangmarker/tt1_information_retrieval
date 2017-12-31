@@ -2,9 +2,9 @@
 
 #include "test_helper.h"
 #include "3rdparty/catch.h"
+#include "document.h"
 
 #include <locale>
-#include <sstream>
 #include <codecvt>
 
 static const std::wstring sentence =

@@ -1,6 +1,7 @@
 #include "database.h"
 
 #include "3rdparty/catch.h"
+#include "document.h"
 
 #include <cmath>
 
