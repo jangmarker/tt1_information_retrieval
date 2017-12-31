@@ -9,7 +9,7 @@
 
 static const std::wstring sentence =
         L"Ein Feldblock ist eine zusammenhängende landwirtschaftlich nutzbare Fläche, die von in der Natur "
-         "erkennbaren Außengrenzen (beispielsweise Wald, Straßen, bebautes Gelände, Gewässer, Gräben) umgeben ist.";
+        L"erkennbaren Außengrenzen (beispielsweise Wald, Straßen, bebautes Gelände, Gewässer, Gräben) umgeben ist.";
 static const Token sentenceTokens[] = {
         {L"ein"}, {L"feldblock"}, {L"ist"}, {L"eine"}, {L"zusammenhängende"}, {L"landwirtschaftlich"},
         {L"nutzbare"}, {L"fläche"}, {L"die"}, {L"von"}, {L"in"}, {L"der"}, {L"natur"}, {L"erkennbaren"},
