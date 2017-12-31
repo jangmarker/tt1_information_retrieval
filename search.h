@@ -16,4 +16,7 @@ struct SearchResult {
 };
 using SearchResults = std::vector<SearchResult>;
 
+bool operator<(const SearchResult& lhs, const SearchResult& rhs);
+std::wostream& operator<<(std::wostream& stream, const SearchResult& result);
+
 #endif //TT1_INFORMATION_RETRIEVAL_SEARCH_H

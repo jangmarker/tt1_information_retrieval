@@ -2,6 +2,7 @@
 
 #include <algorithm>
 #include <locale>
+#include <iostream>
 
 Query::Query(std::initializer_list<std::wstring_view> terms)
 {
@@ -20,4 +21,15 @@ SearchResult::SearchResult(const DocumentId& documentId, double similarity)
     , similarity(similarity)
 {
 
+}
+
+bool operator<(const SearchResult& lhs, const SearchResult& rhs)
+{
+    return lhs.similarity > rhs.similarity;
+}
+
+std::wostream& operator<<(std::wostream& stream, const SearchResult& result)
+{
+    stream << result.documentId << ": "<< result.similarity;
+    return stream;
 }
