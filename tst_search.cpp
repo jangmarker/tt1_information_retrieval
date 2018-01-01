@@ -10,3 +10,11 @@ TEST_CASE("Query lowers input", "[search]") {
 
     REQUIRE(query.termFrequencies[L"deutschland"] == 1);
 }
+
+TEST_CASE("Query removes - from input", "[search]") {
+    LocaleSetter setLocale;
+
+    Query query{L"BDSM-Session"};
+
+    REQUIRE(query.termFrequencies[L"bdsmsession"] == 1);
+}

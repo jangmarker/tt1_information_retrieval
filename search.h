@@ -6,6 +6,7 @@
 struct Query : public Document
 {
     Query(std::initializer_list<std::wstring_view> terms);
+    Query(const std::vector<std::string>& terms);
 };
 
 struct SearchResult {
