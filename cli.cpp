@@ -45,4 +45,12 @@ int cli(int argc, char* argv[], std::wostream& ostream)
     for (const auto& result : results) {
         ostream << result << std::endl;
     }
+
+    if (*options.printMatrix) {
+        ostream << std::endl;
+        ostream << L"Matrix:" << std::endl;
+//        ostream << db << std::endl;
+    }
+
+    return 0;
 }

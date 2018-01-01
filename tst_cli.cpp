@@ -20,30 +20,29 @@ TEST_CASE("cli: 'Tür' without matrix", "[cli]") {
     std::wstringstream cout_simulation;
 
     cli(argc, argv, cout_simulation);
-
     SearchResults expectedSearchResults = {
             // TODO verify numbers in calculations?
             {L"Türbeschlag",            0.401237},
             {L"Taubenschlag",           0.0162393},
-            {L"Schlag (Torfabbau)",     0},
-            {L"Uhrschlag",              0},
-            {L"Stromschlag",            0},
-            {L"Stoßgesetze",            0},
-            {L"Schlagzahl (Uhr)",       0},
-            {L"Schlagzahl (Kanusport)", 0},
-            {L"Schlaghosen",            0},
-            {L"Schlaganfall",           0},
-            {L"Schlag (Wald)",          0},
             {L"Blitzeinschlag",         0},
-            {L"Schlag (Takt)",          0},
-            {L"Schlag (Ort)",           0},
-            {L"Schlag (Hunderassen)",   0},
-            {L"Reepschläger (Beruf)",   0},
-            {L"Peitsche (Schlagwaffe)", 0},
-            {L"Paddelschlag",           0},
-            {L"Kreuzschlag (Seile)",    0},
-            {L"Feldblock",              0},
             {L"Faustschlag",            0},
+            {L"Feldblock",              0},
+            {L"Kreuzschlag (Seile)",    0},
+            {L"Paddelschlag",           0},
+            {L"Peitsche (Schlagwaffe)", 0},
+            {L"Reepschläger (Beruf)",   0},
+            {L"Schlag (Hunderassen)",   0},
+            {L"Schlag (Ort)",           0},
+            {L"Schlag (Takt)",          0},
+            {L"Schlag (Torfabbau)",     0},
+            {L"Schlag (Wald)",          0},
+            {L"Schlaganfall",           0},
+            {L"Schlaghosen",            0},
+            {L"Schlagzahl (Kanusport)", 0},
+            {L"Schlagzahl (Uhr)",       0},
+            {L"Stoßgesetze",            0},
+            {L"Stromschlag",            0},
+            {L"Uhrschlag",              0},
     };
 
     std::wstringstream expectedStream;

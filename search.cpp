@@ -42,6 +42,9 @@ SearchResult::SearchResult(const DocumentId& documentId, double similarity)
 
 bool operator<(const SearchResult& lhs, const SearchResult& rhs)
 {
+    if (lhs.similarity == rhs.similarity) {
+        return lhs.documentId < rhs.documentId;
+    }
     return lhs.similarity > rhs.similarity;
 }
 
