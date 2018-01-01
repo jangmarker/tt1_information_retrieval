@@ -22,7 +22,7 @@ if (DEFINED ENV{TRAVIS})
     set(CMAKE_BUILD_TYPE "DEBUG")
 endif()
 
-set(SOURCE_FILES database.h database.cpp tokenizer.h tokenizer.cpp fileaccess.h fileaccess.cpp locale_names.h document.h document.cpp search.h search.cpp)
+set(SOURCE_FILES database.h database.cpp tokenizer.h tokenizer.cpp fileaccess.h fileaccess.cpp locale_names.h document.h document.cpp search.h search.cpp cli.h cli.cpp)
 add_executable(tt1_information_retrieval main.cpp 3rdparty/CLI11.hpp ${SOURCE_FILES})
 
 if(CMAKE_COMPILER_IS_GNUCXX)
@@ -44,3 +44,5 @@ create_test(database)
 create_test(integration)
 create_test(tokenizer)
 create_test(search)
+create_test(cli)
+# NOTE don't forget to add command to .appveyor.yml

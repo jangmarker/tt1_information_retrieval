@@ -13,10 +13,12 @@ test_script:
   - ctest -C Debug
 
 on_finish:
+  # required for failed tests
   - appveyor PushArtifact tst_database-junit.xml
   - appveyor PushArtifact tst_integration-junit.xml
   - appveyor PushArtifact tst_tokenizer-junit.xml
   - appveyor PushArtifact tst_search-junit.xml
+  - appveyor PushArtifact tst_cli-junit.xml
 
 artifacts:
   - path: 'build\Debug\*tt1*.exe'
