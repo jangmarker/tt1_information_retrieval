@@ -15,7 +15,7 @@ namespace fs = std::experimental::filesystem;
 
 int cli(int argc, char* argv[], std::wostream& ostream)
 {
-    std::setlocale(LC_ALL, DE_LOCALE);
+    setlocale(LC_ALL, DE_LOCALE);
     std::locale::global(std::locale(DE_LOCALE));
 
     CLI::App app{"Text Technologie 1 - Aufgabe 4 - Lösung Jan Marker"};
