@@ -8,6 +8,7 @@
 
 #include <algorithm>
 #include <experimental/filesystem>
+#include <locale>
 
 using namespace std::literals::string_literals;
 namespace fs = std::experimental::filesystem;
