@@ -23,16 +23,21 @@ if (DEFINED ENV{TRAVIS})
 endif()
 
 set(SOURCE_FILES database.h database.cpp tokenizer.h tokenizer.cpp fileaccess.h fileaccess.cpp locale_names.h document.h document.cpp search.h search.cpp cli.h cli.cpp)
-add_executable(tt1_information_retrieval main.cpp 3rdparty/CLI11.hpp ${SOURCE_FILES})
+add_library(libtt1_information_retrieval ${SOURCE_FILES})
+
+add_executable(tt1_information_retrieval main.cpp 3rdparty/CLI11.hpp)
+target_link_libraries(tt1_information_retrieval libtt1_information_retrieval)
 
 if(CMAKE_COMPILER_IS_GNUCXX)
     target_link_libraries(tt1_information_retrieval -lstdc++fs)
 endif()
 
-set(TEST_FILES 3rdparty/catch.h main_tst.cpp test_helper.cpp test_helper.h ${SOURCE_FILES})
+set(TEST_FILES 3rdparty/catch.h test_helper.cpp test_helper.h)
+add_library(libtt1_information_retrieval_test ${TEST_FILES})
 
 function(create_test NAME)
-    add_executable(tst_${NAME} tst_${NAME}.cpp ${TEST_FILES})
+    add_executable(tst_${NAME} tst_${NAME}.cpp main_tst.cpp)
+    target_link_libraries(tst_${NAME} libtt1_information_retrieval_test libtt1_information_retrieval)
     if(CMAKE_COMPILER_IS_GNUCXX)
         target_link_libraries(tst_${NAME} -lstdc++fs)
     endif()
