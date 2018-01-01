@@ -1,0 +1,2 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/8g0562yqm3x3vb1j?svg=true)](https://ci.appveyor.com/project/jangmarker/tt1-information-retrieval) [![Build Status](https://travis-ci.org/jangmarker/tt1_information_retrieval.svg?branch=master)](https://travis-ci.org/jangmarker/tt1_information_retrieval) [![codecov](https://codecov.io/gh/jangmarker/tt1_information_retrieval/branch/master/graph/badge.svg)](https://codecov.io/gh/jangmarker/tt1_information_retrieval)
+# TT1 Information Retrieval - Lösung Jan Marker
