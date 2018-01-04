@@ -4,6 +4,7 @@
 
 #include <fstream>
 #include <locale>
+#include <iomanip>
 
 std::vector<Document> FileAccess::documentsFromDirectory(const std::experimental::filesystem::path& dir)
 {
@@ -27,4 +28,32 @@ Document FileAccess::documentFromFile(const std::experimental::filesystem::path&
     stream >> document.termFrequencies;
 
     return document;
+}
+
+void FileAccess::matrixToFile(const Database& database, std::string_view fileName)
+{
+    std::wofstream stream(fileName.data());
+    stream.imbue(std::locale(std::locale(std::locale(), new std::codecvt_utf8<wchar_t>())));
+
+    const auto & documents = database.documents();
+
+    stream << L"Term" << L';';
+    for (auto & [documentId, document] : documents) {
+        stream << documentId << L';';
+    }
+    stream << std::endl;
+
+    for (auto & [termId, frequency] : database.termFrequencies()) {
+        stream << termId << L';';
+        for (auto & [documentId, document] : documents) {
+            stream << std::setprecision(8);
+            if (document.termFrequencies.find(termId) == document.termFrequencies.end())
+                stream << 0.0f;
+            else
+                stream << document.termWeights.at(termId);
+            stream << L';';
+        }
+        stream << std::endl;
+    }
+
 }
