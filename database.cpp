@@ -2,6 +2,9 @@
 #include "document.h"
 
 #include <cmath>
+#include <ostream>
+#include <iomanip>
+#include <string>
 
 namespace
 {
@@ -87,4 +90,91 @@ const DocumentList& Database::documents() const
 const TermFrequencies& Database::termFrequencies() const
 {
     return mTermFrequency;
+}
+
+namespace {
+    using namespace std::literals;
+
+    std::wostream& fixed_width(std::wostream& stream, std::wstring_view str, int width) {
+        stream << std::setw(width) << std::setfill(L' ');
+        const long moreThanWidthPos = str.length()-width;
+        if (moreThanWidthPos > 0) {
+            stream << L"..."s + str.substr(
+                                 static_cast<std::size_t>(moreThanWidthPos) + 2,
+                                 static_cast<std::size_t>(width) - 2
+                                ).data();
+        } else {
+            stream << str;
+        }
+        return stream;
+    }
+
+    template<typename T>
+    std::wostream& header_row(std::wostream& stream, const std::map<std::wstring, T>& items,
+                              int cellWidth, bool even, int offset = 0) {
+        static constexpr int cellSeparatorWidth = 1;
+        const int large_cell_width = 2 * cellWidth + cellSeparatorWidth - 1;
+        const int remainder = even ? 0 : 1;
+
+        fixed_width(stream, L"", offset);
+
+        int index = 0;
+        for (auto & [identifier, _unused] : items) {
+            stream << L' '; // don't overlap with values of left column
+            if (index % 2 == remainder) {
+                if (identifier.length() > large_cell_width) {
+                    fixed_width(stream, identifier, large_cell_width);
+                } else {
+                    const int unsigned spaces_needed = large_cell_width - identifier.length();
+                    unsigned int spaces_left = spaces_needed / 2;
+                    std::wstring spaces;
+                    spaces.reserve(spaces_left);
+                    for (; spaces_left > 0; spaces_left--) {
+                        spaces += L' ';
+                    }
+                    stream << std::left << std::setw(large_cell_width-1) << std::setfill(L' ') << (spaces + identifier);
+                }
+                stream << L' '; // separator between columns
+            }
+            index++;
+        }
+
+        stream << std::endl;
+
+        return stream;
+    }
+
+    template<typename T>
+    std::wostream& header(std::wostream& stream, const std::map<std::wstring, T>& items,
+                          int first_column_width, int other_columns_width) {
+        header_row(stream, items, other_columns_width, true, first_column_width - other_columns_width + 1);
+        header_row(stream, items, other_columns_width, false, first_column_width + 1);
+    }
+}
+
+std::wostream& operator<<(std::wostream& stream, const Database& database)
+{
+    static const int first_column_width = 20;
+    static const int other_columns_width = 10;
+    const auto & documents = database.documents();
+
+    int row = 0;
+    for (auto & [termId, frequency] : database.termFrequencies()) {
+        if (row % 20 == 0) {
+            header(stream, documents, first_column_width, other_columns_width);
+        }
+        stream << std::right;
+        fixed_width(stream, termId, first_column_width);
+        stream << L' ';
+        for (auto & [documentId, document] : documents) {
+            stream << L' ';
+            stream << std::setprecision(other_columns_width-2) << std::left << std::setw(other_columns_width) << std::setfill(L' ');
+            if (document.termFrequencies.find(termId) == document.termFrequencies.end())
+                stream << 0.0f;
+            else
+                stream << document.termWeights.at(termId);
+        }
+        stream << std::endl;
+        row++;
+    }
 }

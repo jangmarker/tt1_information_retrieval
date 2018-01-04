@@ -26,4 +26,6 @@ private:
     TermFrequencies mTermFrequency;
 };
 
+std::wostream& operator<<(std::wostream& stream, const Database& database);
+
 #endif //TT1_INFORMATION_RETRIEVAL_DATABASE_H
