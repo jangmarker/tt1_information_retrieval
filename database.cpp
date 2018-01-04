@@ -177,4 +177,6 @@ std::wostream& operator<<(std::wostream& stream, const Database& database)
         stream << std::endl;
         row++;
     }
+
+    return stream;
 }
