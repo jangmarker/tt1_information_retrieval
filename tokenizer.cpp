@@ -2,7 +2,7 @@
 
 #include <iostream>
 
-std::wstring normalize(const std::wstring_view& source)
+std::wstring normalize(std::wstring_view source)
 {
     std::wstring target;
     target.reserve(source.length());

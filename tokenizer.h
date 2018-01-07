@@ -11,7 +11,7 @@ struct Token {
     std::wstring value;
 };
 
-std::wstring normalize(const std::wstring_view& source);
+std::wstring normalize(std::wstring_view source);
 
 std::wistream& operator>>(std::wistream& stream, Token& token);
 std::wistream& operator>>(std::wistream& stream, TermFrequencies& termFrequencies);
