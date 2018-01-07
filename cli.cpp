@@ -21,7 +21,7 @@ int cli(int argc, char* argv[], std::wostream& ostream)
     CLI::App app{"Text Technologie 1 - Aufgabe 4 - Lösung Jan Marker"};
 
     static struct {
-        std::string databaseFolder = "./"s;
+        std::string databaseFolder = "./schlag"s;
         CLI::Option* printMatrix = nullptr;
         CLI::Option* saveMatrixCsv = nullptr;
         std::vector<std::string> query;
