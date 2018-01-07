@@ -104,7 +104,7 @@ namespace {
                                  static_cast<std::size_t>(width) - 2
                                 ).data();
         } else {
-            stream << str;
+            stream << str.data();
         }
         return stream;
     }
