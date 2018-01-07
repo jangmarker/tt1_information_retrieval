@@ -149,6 +149,7 @@ namespace {
                           int first_column_width, int other_columns_width) {
         header_row(stream, items, other_columns_width, true, first_column_width - other_columns_width + 1);
         header_row(stream, items, other_columns_width, false, first_column_width + 1);
+        return stream;
     }
 }
 
